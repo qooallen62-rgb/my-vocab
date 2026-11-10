@@ -1,0 +1,5623 @@
+[
+  {
+    "id": "49e1e950",
+    "word": "docile",
+    "meaning": "溫順的；容易管教的；聽話的",
+    "example": "The new employees were docile and eager to follow the company's training procedures.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f7d2d1ea",
+    "word": "maturity",
+    "meaning": "成熟；到期日；成人期",
+    "example": "The bond reaches maturity in five years, at which point investors will receive their principal back.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "3660f053",
+    "word": "obsession",
+    "meaning": "對某事物的執著或沉迷；強烈的心理困擾",
+    "example": "Her obsession with perfection made it difficult for her to delegate tasks to team members.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "84f66de0",
+    "word": "neutral",
+    "meaning": "中立的；不帶感情的；中性的",
+    "example": "The mediator maintained a neutral position during the negotiation between the two companies.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9b3c2519",
+    "word": "ethnic",
+    "meaning": "與種族、民族、文化背景相關的",
+    "example": "Our company values ethnic diversity and promotes an inclusive workplace culture.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "aaf97b63",
+    "word": "hump",
+    "meaning": "駝峰；隆起物；困難階段",
+    "example": "We need to get over the hump of the first quarter before we can expect better sales.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a438e3b5",
+    "word": "caution",
+    "meaning": "警告；謹慎；小心",
+    "example": "The manager issued a caution to the team about meeting the deadline.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "88e84e96",
+    "word": "irony",
+    "meaning": "諷刺；與預期相反的情況",
+    "example": "The irony is that the safety system failed, causing the very accident it was designed to prevent.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ba011abc",
+    "word": "hone",
+    "meaning": "磨練、打磨、使尖銳",
+    "example": "We need to hone our negotiation skills before the client meeting.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f5436624",
+    "word": "poke",
+    "meaning": "用手指或尖銳物體戳；探查；伸出",
+    "example": "Don't poke your nose into other people's business affairs.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "eac8a2b0",
+    "word": "shove",
+    "meaning": "用力推；粗暴地推動",
+    "example": "Don't shove your colleagues during the crowded meeting—show respect in the workplace.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6dc8b744",
+    "word": "spontaneous",
+    "meaning": "自發的、自然發生的、未經計畫的",
+    "example": "The team's spontaneous decision to pivot their marketing strategy led to unexpected success.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "aaa71353",
+    "word": "telescope",
+    "meaning": "望遠鏡；用望遠鏡觀察；縮小或伸縮",
+    "example": "The company used a telescope to identify potential market trends ahead of competitors.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7bef9b1c",
+    "word": "pump",
+    "meaning": "幫浦、泵浦；用泵抽送；推動",
+    "example": "We need to pump more resources into this project to meet the deadline.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "3ecf9cea",
+    "word": "intense",
+    "meaning": "強烈的；深厚的；認真的",
+    "example": "The intense competition in the market requires us to innovate constantly.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "531ed54e",
+    "word": "vintage",
+    "meaning": "葡萄酒的年份；特定時期的；具懷舊風格的",
+    "example": "This vintage wine from 2015 has become quite valuable for our restaurant's premium collection.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "29637d41",
+    "word": "milieu",
+    "meaning": "環境、社會背景或氛圍",
+    "example": "The company culture reflects the creative milieu of Silicon Valley.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d6735523",
+    "word": "certain",
+    "meaning": "確定的、肯定的；某個（但不具體說明是哪個）",
+    "example": "We are certain that the project will be completed by the end of this quarter.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "3e870bda",
+    "word": "reconcile",
+    "meaning": "調和、化解、使一致；與某人重新和好",
+    "example": "We need to reconcile our budget with the actual expenses before submitting the financial report.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "bc17a0f9",
+    "word": "creature",
+    "meaning": "生物；動物；生物體",
+    "example": "The company is a creature of regulation, heavily dependent on government compliance.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "b5abf32d",
+    "word": "confiscation",
+    "meaning": "沒收；充公（政府或權力機構依法取走他人財產）",
+    "example": "The customs authority ordered the confiscation of illegal goods at the border.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d1bb4f93",
+    "word": "possession",
+    "meaning": "擁有；財產；領地",
+    "example": "The company is in possession of valuable intellectual property rights.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "eb6e3f3f",
+    "word": "exotic",
+    "meaning": "來自或特產於異國的；奇異的、珍奇的",
+    "example": "The resort offers exotic fruits and dishes from around the world.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "30eae96b",
+    "word": "woo",
+    "meaning": "爭取、追求（某人的支持或感情）",
+    "example": "The company is actively wooing new investors to fund the expansion project.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "09640056",
+    "word": "frolic",
+    "meaning": "嬉戲、玩耍；輕鬆愉快地活動",
+    "example": "The team decided to frolic in the break room after finishing the project ahead of schedule.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "57dfe025",
+    "word": "interrupt",
+    "meaning": "中斷、打斷（說話或活動）",
+    "example": "Please don't interrupt me during the presentation; I'll take questions at the end.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "dd255675",
+    "word": "curl",
+    "meaning": "捲曲；彎曲",
+    "example": "The heat caused the paper to curl at the edges.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c95a8980",
+    "word": "embargo",
+    "meaning": "禁運；政府對某國商品的禁止進出口令",
+    "example": "The government announced a trade embargo against the country to pressure political reforms.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5d664d19",
+    "word": "inspiration",
+    "meaning": "靈感；啟發；鼓舞",
+    "example": "The team found inspiration in the client's success story and developed a more creative marketing strategy.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0bc08e52",
+    "word": "purse",
+    "meaning": "錢包；皮夾；賽事獎金；縮緊",
+    "example": "She reached into her purse to find her business card during the meeting.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "81320444",
+    "word": "fold",
+    "meaning": "折疊；摺疊；合併",
+    "example": "Please fold the documents in half before placing them in the envelope.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "9913ec6a",
+    "word": "sore",
+    "meaning": "疼痛的、酸痛的；或引起不悅的、令人煩惱的",
+    "example": "After the intense workout, my muscles were sore for three days.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "101e56f0",
+    "word": "pile",
+    "meaning": "堆；樁；一大量",
+    "example": "We need to pile up the documents before the audit begins.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "5b79643d",
+    "word": "ante",
+    "meaning": "賭注；在...之前（前綴）",
+    "example": "The company decided to raise the ante by investing more in research and development.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a749119a",
+    "word": "formality",
+    "meaning": "正式的程序、禮儀或要求；或正式的態度和行為",
+    "example": "We need to complete the formality of signing the contract before the project can officially begin.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2008b007",
+    "word": "shuffle",
+    "meaning": "洗牌、拖著腳走、重新整排",
+    "example": "We need to shuffle the agenda items to accommodate the client's urgent request.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "99a76003",
+    "word": "cave",
+    "meaning": "洞穴；凹陷",
+    "example": "The team explored the cave system to identify potential mining sites.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "b38ae853",
+    "word": "slip",
+    "meaning": "滑倒；滑動；遞給；失誤；小紙片",
+    "example": "The executive slipped a note to the intern during the meeting.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "6f522bbc",
+    "word": "gesture",
+    "meaning": "姿勢、手勢、動作；或表示某種態度/意向的舉動",
+    "example": "The manager made a gesture of goodwill by offering employees a bonus.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "920ad399",
+    "word": "dealt",
+    "meaning": "處理、交易、分配（deal 的過去式和過去分詞）",
+    "example": "We dealt with the customer complaint promptly and professionally.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "384d853b",
+    "word": "rematch",
+    "meaning": "重新比賽；再次較量",
+    "example": "After losing the first game, the team demanded a rematch against their rivals.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "7b3d25c6",
+    "word": "settle",
+    "meaning": "解決、定居、安定；（價格、費用等）清算",
+    "example": "We need to settle the payment terms before signing the contract.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "602edf79",
+    "word": "stake",
+    "meaning": "賭注；股份；木桩；利害關係",
+    "example": "We have a significant stake in the company's success, so we need to monitor the project closely.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6c77ae58",
+    "word": "assort",
+    "meaning": "分類、分混；（商品）種類繁多",
+    "example": "The store assorts its products by category to help customers find items more easily.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "37813582",
+    "word": "spade",
+    "meaning": "鏟子；黑桃（撲克牌花色）",
+    "example": "The construction workers used spades to dig the foundation for the new office building.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7499e8d7",
+    "word": "lame",
+    "meaning": "跛腳的；蹩腳的、無趣的",
+    "example": "The excuse he gave was lame and unconvincing to the client.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9c822404",
+    "word": "weep",
+    "meaning": "哭泣、流淚",
+    "example": "The employee began to weep after receiving the devastating news about the company's closure.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "42ba7778",
+    "word": "sarcastic",
+    "meaning": "用諷刺或嘲諷的方式表達，言辭尖刻",
+    "example": "His sarcastic comment about the project delay didn't help the team morale.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "8452adde",
+    "word": "pound",
+    "meaning": "磅（重量單位）；英鎊（貨幣）；用力敲打；心臟強烈跳動",
+    "example": "The product weighs 2 pounds and costs 15 pounds sterling.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "8bbb9d01",
+    "word": "scone",
+    "meaning": "司康，一種英式點心，通常配傳統下午茶",
+    "example": "We ordered a traditional afternoon tea with scones, clotted cream, and jam.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cc6dd212",
+    "word": "proofread",
+    "meaning": "逐字檢查文件中的錯誤，特別是打字、語法或拼字錯誤",
+    "example": "Please proofread this report before we send it to the client.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2f3678da",
+    "word": "overwhelm",
+    "meaning": "壓倒；使不知所措；淹沒",
+    "example": "The sudden increase in customer requests overwhelmed our support team.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ca067dda",
+    "word": "digest",
+    "meaning": "消化；摘要；領會",
+    "example": "The company needs time to digest the acquisition and integrate the two systems.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "56036f46",
+    "word": "sympathetic",
+    "meaning": "同情的；富有同情心的；贊同的；易引起共鳴的",
+    "example": "Our manager was very sympathetic to our request for flexible working hours.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3f27e08e",
+    "word": "tide",
+    "meaning": "潮汐；水位漲退的周期性變化；(轉喻)趨勢或潮流",
+    "example": "The company is riding the tide of digital transformation in the industry.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4705cfb5",
+    "word": "continuous",
+    "meaning": "持續的、連續不斷的",
+    "example": "We need continuous improvement in our production process to remain competitive.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a1336ced",
+    "word": "duration",
+    "meaning": "持續時間、期間",
+    "example": "The project has a duration of six months.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "77b90aa5",
+    "word": "diaphragm",
+    "meaning": "隔膜；橫膈膜（呼吸器官）；光圈（相機配件）",
+    "example": "The camera's diaphragm controls the amount of light entering the lens.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6aa32539",
+    "word": "coherent",
+    "meaning": "連貫的、一致的、清晰易懂的",
+    "example": "The CEO presented a coherent strategy that aligned all departments toward the same goal.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "cb47779d",
+    "word": "inhale",
+    "meaning": "吸入；吸氣",
+    "example": "The workers need to wear masks to avoid inhaling toxic fumes in the factory.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "29815032",
+    "word": "exhalation",
+    "meaning": "呼氣；吐氣",
+    "example": "The exhalation of carbon dioxide is a natural part of the respiratory process.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a1959d68",
+    "word": "intentional",
+    "meaning": "故意的、蓄意的",
+    "example": "The delay was not intentional; we apologize for any inconvenience caused.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b11fce73",
+    "word": "psychiatry",
+    "meaning": "精神醫學；精神科醫療",
+    "example": "She decided to specialize in psychiatry after observing the impact of mental health treatment on patients.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "0f606e2f",
+    "word": "hyperventilate",
+    "meaning": "過度換氣；呼吸急促",
+    "example": "During the stressful presentation, the manager began to hyperventilate and had to take a break.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "cca219b4",
+    "word": "alleviate",
+    "meaning": "減輕、緩解（痛苦、問題等）",
+    "example": "The new policy aims to alleviate the financial burden on small businesses.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "87acf6c1",
+    "word": "weighed down",
+    "meaning": "被沉重的負擔或憂慮所困擾",
+    "example": "The manager felt weighed down by the pressure of meeting quarterly targets while managing team conflicts.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1cf99ed7",
+    "word": "prolong",
+    "meaning": "延長、拖延",
+    "example": "The company decided to prolong the contract for another two years.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cc8d82f4",
+    "word": "bloom",
+    "meaning": "花朵；盛開；繁榮",
+    "example": "Our company's business is in full bloom this quarter with record revenue growth.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "f75c7236",
+    "word": "balmy",
+    "meaning": "溫暖宜人的；溫和的；發瘋的、愚蠢的（英式俚語）",
+    "example": "The balmy weather in spring makes it perfect for outdoor client meetings.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "62442e37",
+    "word": "inadequate",
+    "meaning": "不足的、不夠好的、不適當的",
+    "example": "The current budget is inadequate to cover all project expenses.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a18d2813",
+    "word": "obtain",
+    "meaning": "獲得、取得、達到",
+    "example": "We need to obtain approval from the board before launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1be5b3b1",
+    "word": "balmy",
+    "meaning": "溫暖宜人的；溫和的",
+    "example": "The balmy weather in spring made it perfect for outdoor business conferences.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5a92f67f",
+    "word": "characterised by",
+    "meaning": "以...為特徵；由...所表現",
+    "example": "The market downturn was characterised by rapid decline in consumer confidence.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "28431ddc",
+    "word": "rolls around",
+    "meaning": "時間周期性地回來；輪流到達",
+    "example": "Every time the holiday season rolls around, we plan our year-end company retreat.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "730ccf19",
+    "word": "decomposing",
+    "meaning": "分解；腐爛；崩潰",
+    "example": "The organic waste is decomposing in the landfill, releasing methane gas.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "0d079d29",
+    "word": "gloomy",
+    "meaning": "陰暗的；沮喪的；令人沮喪的",
+    "example": "The gloomy economic forecast led the company to freeze new hiring.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c7218c72",
+    "word": "affective",
+    "meaning": "與情感或情緒相關的；影響心理狀態的",
+    "example": "The marketing campaign had a strong affective impact on consumers, making them emotionally connected to the brand.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d200b7b7",
+    "word": "fluctuate",
+    "meaning": "波動；變動；在兩個狀態之間搖擺",
+    "example": "The stock prices fluctuate daily based on market conditions.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1fcb7b00",
+    "word": "throughout",
+    "meaning": "貫穿整個；在...的各個部分；始終",
+    "example": "The project manager monitored quality throughout the entire production process.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "80a84c5c",
+    "word": "observes",
+    "meaning": "觀察；遵守；注意到",
+    "example": "The compliance team observes all regulatory requirements to ensure the company operates legally.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "729ae33b",
+    "word": "recalibrate",
+    "meaning": "重新校準；重新調整；重新評估",
+    "example": "We need to recalibrate our sales targets based on the latest market data.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5eedbf48",
+    "word": "regulating",
+    "meaning": "調節、管制、規範",
+    "example": "The government is regulating the financial industry to protect consumers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f1cd8f42",
+    "word": "overwhelmed",
+    "meaning": "感到不知所措的；被淹沒的；受到強烈影響的",
+    "example": "The team felt overwhelmed by the number of urgent requests from clients.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "08b059ce",
+    "word": "annotation",
+    "meaning": "註釋、批註、註解；在文件或文本上添加的解釋性評論",
+    "example": "The manager added annotations to the contract before sending it to the client for review.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c84de724",
+    "word": "disruption",
+    "meaning": "中斷、擾亂、打亂；造成混亂或中斷的事件",
+    "example": "The system update caused a temporary disruption to our service delivery.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c842dad4",
+    "word": "ramps",
+    "meaning": "斜坡；加速；上升通道",
+    "example": "The company is ramping up production to meet increased demand.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "05e647b8",
+    "word": "queue",
+    "meaning": "隊伍；排隊等候；將某事加入待辦序列",
+    "example": "Please queue up at the reception desk to check in for your appointment.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "8fcb2703",
+    "word": "stuffed",
+    "meaning": "填充的、塞滿的；（食物）內部填了餡料的；感到很飽的",
+    "example": "We ordered a stuffed mushroom appetizer at the business lunch.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bf42a6a1",
+    "word": "resent",
+    "meaning": "對某事感到憤怒或不滿；怨恨",
+    "example": "She resents being overlooked for the promotion.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4b272fe0",
+    "word": "cramp",
+    "meaning": "痙攣、抽筋；限制、束縛",
+    "example": "The long meeting was cramping my creativity and productivity.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "75c438df",
+    "word": "ironic",
+    "meaning": "諷刺的；充滿諷刺意味的；與預期相反的",
+    "example": "It's ironic that the safety officer was the one who had an accident at work.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8b534073",
+    "word": "resist",
+    "meaning": "抵抗、反抗、抗拒",
+    "example": "We need to resist the temptation to make hasty decisions without proper analysis.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7bc893ae",
+    "word": "contrasting",
+    "meaning": "對比的、形成對比的；強調差異",
+    "example": "The contrasting colors in the marketing campaign really caught customers' attention.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8dec486c",
+    "word": "associate",
+    "meaning": "聯繫、關聯；同事、夥伴",
+    "example": "We associate the brand with high quality and innovation in the market.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6ee4a971",
+    "word": "rite of passage",
+    "meaning": "人生中的重要過渡儀式或事件，標誌著從一個生活階段進入另一個階段",
+    "example": "Graduating from university is considered a rite of passage for many young professionals entering the corporate world.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "909c4b97",
+    "word": "conflicting",
+    "meaning": "相互矛盾的、相互衝突的",
+    "example": "We received conflicting reports from two different departments about the project deadline.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0e831e4e",
+    "word": "nausea",
+    "meaning": "噁心感、想吐的感覺",
+    "example": "The medication caused mild nausea as a side effect.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "dfb382c6",
+    "word": "churning",
+    "meaning": "攪動；持續快速變化；（銀行或保險業）不當地頻繁交易客戶資產以賺取佣金",
+    "example": "The regulator investigated the brokerage firm for churning clients' accounts without proper authorization.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6a0ba713",
+    "word": "stiffer",
+    "meaning": "更硬的；更堅挺的；更嚴厲的",
+    "example": "The company faces stiffer competition from new market entrants this quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "99d8b7ba",
+    "word": "sore",
+    "meaning": "疼痛的；酸痛的；令人不快的；嚴重的",
+    "example": "After the intensive training session, all my muscles were sore for three days.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "79572cfc",
+    "word": "exhausting",
+    "meaning": "令人疲憊的、消耗性的",
+    "example": "The project deadline was exhausting, requiring our team to work overtime for two weeks.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3878db9a",
+    "word": "exhilarating",
+    "meaning": "令人興高采烈的、非常令人興奮的",
+    "example": "The exhilarating sales results exceeded all our quarterly expectations.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "9ca9bf4e",
+    "word": "instead",
+    "meaning": "替代；代替；而是用...代替",
+    "example": "Instead of attending the meeting in person, she joined via video conference.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "b090ccb8",
+    "word": "intense",
+    "meaning": "強烈的、激烈的、深刻的",
+    "example": "The intense competition in the market requires us to innovate constantly.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "16081546",
+    "word": "hurl",
+    "meaning": "用力投擲；猛然扔",
+    "example": "The customer hurled complaints at the sales team during the meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f5e30c5f",
+    "word": "further",
+    "meaning": "更遠的；進一步的；更多的",
+    "example": "We need to discuss this matter further at our next meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5c4e479e",
+    "word": "quizzes",
+    "meaning": "測驗、問答遊戲；質問（第三人稱單數或複數）",
+    "example": "The training program includes weekly quizzes to assess employee comprehension.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "78e65ff5",
+    "word": "unfamiliar",
+    "meaning": "不熟悉的、陌生的",
+    "example": "I am unfamiliar with the new software system that our company just implemented.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "baa6c159",
+    "word": "generate",
+    "meaning": "產生、創造、發電",
+    "example": "Our new marketing campaign generated significant interest from potential clients.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f23bebbf",
+    "word": "effectively",
+    "meaning": "有效地；實際上；基本上",
+    "example": "We need to communicate more effectively with our clients to improve customer satisfaction.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6091e14d",
+    "word": "defective",
+    "meaning": "有缺陷的、不完美的、有問題的",
+    "example": "The manufacturer recalled all defective units due to a safety issue.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "764fd148",
+    "word": "faulty",
+    "meaning": "有缺陷的；不完美的；有故障的",
+    "example": "The equipment was faulty and needed to be replaced immediately.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b4b417b7",
+    "word": "malfunction",
+    "meaning": "故障、運作不良或失效",
+    "example": "The server malfunction caused the entire system to go down yesterday.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1c34142b",
+    "word": "compensation",
+    "meaning": "補償；賠償；薪酬",
+    "example": "The company offered compensation to employees affected by the system outage.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "496c886a",
+    "word": "reimbursement",
+    "meaning": "報銷；償還；補償",
+    "example": "Employees must submit receipts to request reimbursement for business expenses.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1ac2147f",
+    "word": "disruption",
+    "meaning": "中斷、打亂、破壞；造成混亂的事物",
+    "example": "The system upgrade caused a brief disruption to our service yesterday.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "eaa55d3c",
+    "word": "goodwill gesture",
+    "meaning": "善意的姿態；友善的舉動，用來表示誠意或改善關係",
+    "example": "The company offered a 20% discount as a goodwill gesture to retain dissatisfied customers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a89d9dcb",
+    "word": "dissatisfaction",
+    "meaning": "不滿意、不滿足",
+    "example": "Customer dissatisfaction with our service has led to numerous complaints this quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "63f3b2da",
+    "word": "warranty",
+    "meaning": "保證；保固期；擔保書",
+    "example": "This product comes with a one-year warranty covering manufacturing defects.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0b41a3ae",
+    "word": "consequence",
+    "meaning": "結果；後果；影響",
+    "example": "The consequence of missing the deadline was a significant impact on our project timeline.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2a62a9fe",
+    "word": "investigate",
+    "meaning": "調查；偵查；深入研究",
+    "example": "The company hired an external firm to investigate the accounting irregularities.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2a2d0af1",
+    "word": "tendency",
+    "meaning": "傾向、趨勢",
+    "example": "There is a tendency for employees to work from home more frequently after the pandemic.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "59d38f2f",
+    "word": "overestimate",
+    "meaning": "高估；過度評估",
+    "example": "We should not overestimate the market demand for this new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e6996814",
+    "word": "deception",
+    "meaning": "欺騙；詐欺；虛偽",
+    "example": "The company engaged in deception by misrepresenting the product's quality to consumers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "800074d7",
+    "word": "Excessive",
+    "meaning": "過度的、過量的、超過必要的",
+    "example": "The company was penalized for excessive overtime demands on its employees.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ec7cf853",
+    "word": "falsehoods",
+    "meaning": "謊言、虛假的事物（複數）",
+    "example": "The company was accused of spreading falsehoods about its competitors' products.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "04c9c6b4",
+    "word": "perspective",
+    "meaning": "觀點；視角；透視法",
+    "example": "From a business perspective, we need to reduce operational costs to improve profitability.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "653ee48e",
+    "word": "self-deception",
+    "meaning": "自我欺騙；自己騙自己",
+    "example": "The executive's self-deception about market trends led to poor strategic decisions.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c7b82c4b",
+    "word": "argues",
+    "meaning": "爭辯、主張、論證",
+    "example": "The manager argues that the new policy will improve productivity.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d618efae",
+    "word": "evolved",
+    "meaning": "進化；演變；發展",
+    "example": "Our company's marketing strategy has evolved significantly over the past five years.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b00d08ff",
+    "word": "deceive",
+    "meaning": "欺騙、誤導",
+    "example": "The company deceived its customers by falsifying the product quality reports.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b8b69fe8",
+    "word": "give it away",
+    "meaning": "透露秘密；暴露真相；免費贈送",
+    "example": "He didn't mean to give away the surprise party details to his colleague.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6b1f35dd",
+    "word": "hesitation",
+    "meaning": "猶豫、遲疑、躊躇不前",
+    "example": "Without hesitation, she accepted the job offer immediately.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "44e08f81",
+    "word": "nervousness",
+    "meaning": "緊張、不安、焦慮的狀態",
+    "example": "Her nervousness before the presentation was evident in her shaky voice.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e10ec0ec",
+    "word": "underlying",
+    "meaning": "潛在的、根本的、下層的",
+    "example": "We need to identify the underlying causes of the project delays before implementing solutions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "892684e4",
+    "word": "burdensome",
+    "meaning": "令人感到沉重的、費力的、困擾人的",
+    "example": "The excessive paperwork has become burdensome for our team, slowing down our productivity.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "74205f7d",
+    "word": "elaborate",
+    "meaning": "詳細說明；精心製作的；詳盡的",
+    "example": "Could you elaborate on your proposal during the meeting?",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5b792c98",
+    "word": "plumage",
+    "meaning": "羽毛；鳥類身上的全部羽毛",
+    "example": "The peacock's vibrant plumage attracts investors to our luxury brand showcase.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1ec22d39",
+    "word": "feathers",
+    "meaning": "羽毛；鳥類身上的羽毛",
+    "example": "The new product feathers distinguish our brand from competitors.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "0ec3d29e",
+    "word": "indicator",
+    "meaning": "指標；指示器；顯示燈",
+    "example": "The sales figures are a key indicator of market demand.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "aebd6a1e",
+    "word": "phenomenon",
+    "meaning": "現象；事件；非凡的人或事物",
+    "example": "The rapid growth of e-commerce is a significant business phenomenon that has transformed the retail industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "bef4779a",
+    "word": "capable",
+    "meaning": "有能力的、勝任的",
+    "example": "Our team is capable of delivering the project on time and within budget.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "76bea9dc",
+    "word": "fertility",
+    "meaning": "生育能力；肥沃度；多產性",
+    "example": "The company is investing in fertility treatments to support employee wellness programs.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "12343b94",
+    "word": "persuade",
+    "meaning": "說服；勸服",
+    "example": "We need to persuade the client to accept our proposal by highlighting its long-term benefits.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "db37a241",
+    "word": "itinerary",
+    "meaning": "行程；旅遊路線；旅程表",
+    "example": "The project manager outlined the itinerary for the client site visit next month.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "853372b3",
+    "word": "desperately",
+    "meaning": "絕望地；極其；迫切地",
+    "example": "We desperately need to close this deal before the quarter ends.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f54c57e4",
+    "word": "heightened",
+    "meaning": "增強的、加劇的、提高的",
+    "example": "Due to heightened security concerns, all employees must pass additional background checks.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "674ad8de",
+    "word": "competitiveness",
+    "meaning": "競爭力；具有競爭性的特質",
+    "example": "The company's competitiveness in the global market depends on innovation and cost efficiency.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "47f6c2eb",
+    "word": "automated",
+    "meaning": "自動化的；由機器或電腦自動控制的",
+    "example": "Our company implemented an automated system to process customer orders more efficiently.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ca281b8c",
+    "word": "attract",
+    "meaning": "吸引；引起（注意、興趣等）",
+    "example": "Our company's innovative products attract many customers from different markets.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "c6647cef",
+    "word": "electronics",
+    "meaning": "電子學；電子產品、電子設備",
+    "example": "Our company specializes in manufacturing consumer electronics for the global market.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "872683c0",
+    "word": "automation",
+    "meaning": "自動化；自動控制系統",
+    "example": "The company invested in factory automation to increase production efficiency.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "767d311a",
+    "word": "attract",
+    "meaning": "吸引；引起（注意、興趣等）",
+    "example": "Our new marketing campaign attracted thousands of potential customers to our website.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "28b2b955",
+    "word": "affectionately",
+    "meaning": "以親切、溫暖、充滿感情的方式",
+    "example": "The CEO affectionately referred to the long-standing clients as 'our extended family' during the presentation.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "808b7c46",
+    "word": "practical",
+    "meaning": "實際的、實用的、講求實際的",
+    "example": "We need to find a practical solution to reduce our operational costs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7154d37d",
+    "word": "boil down to",
+    "meaning": "歸結為；實質上是；最終意思是",
+    "example": "The main issue boils down to budget constraints and resource allocation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4292c0a7",
+    "word": "digestion",
+    "meaning": "消化；消化過程",
+    "example": "A healthy digestion is essential for nutrient absorption and overall wellness in the workplace.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "74d56b6c",
+    "word": "mammals",
+    "meaning": "哺乳動物；哺乳綱動物",
+    "example": "Our company's research focuses on how mammals adapt to climate change in their natural habitats.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "5280df5b",
+    "word": "symbiotic",
+    "meaning": "共生的；互利的；相互依存的",
+    "example": "The two companies developed a symbiotic relationship, where each benefited from the other's expertise and resources.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "673ca442",
+    "word": "gut",
+    "meaning": "腸道；直覺；勇氣；（複數）內部機制",
+    "example": "I have a gut feeling that this deal will succeed.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f64c504b",
+    "word": "microbes",
+    "meaning": "微生物，特別是細菌、病毒等肉眼看不見的微小生物",
+    "example": "The laboratory technician identified harmful microbes in the water sample.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2b27fe70",
+    "word": "lengthy",
+    "meaning": "冗長的、很長的、耗時的",
+    "example": "The lengthy meeting could have been concluded in half the time with better preparation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7e387117",
+    "word": "fermentation",
+    "meaning": "發酵；發酵過程",
+    "example": "The fermentation process takes approximately two weeks to produce high-quality yogurt.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f630c577",
+    "word": "altered",
+    "meaning": "改變的；被修改的",
+    "example": "The altered contract terms require approval from both parties.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "cc241b08",
+    "word": "resistance",
+    "meaning": "抵抗、阻力、反對",
+    "example": "The company faced strong resistance from employees when implementing the new system.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "986f9092",
+    "word": "labor-intensive",
+    "meaning": "需要大量勞動力的；勞動密集的",
+    "example": "Manufacturing is a labor-intensive industry that requires skilled workers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5b703ec0",
+    "word": "manually",
+    "meaning": "用手、手動地、人工地",
+    "example": "We need to manually process these invoices since the system is down.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b0a8efbd",
+    "word": "time-consuming",
+    "meaning": "耗時的、費時的",
+    "example": "The implementation of this new system is a time-consuming process that requires careful planning.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8c14e622",
+    "word": "specialist",
+    "meaning": "專家；專科醫生",
+    "example": "We hired a marketing specialist to develop our new campaign strategy.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "10617b8f",
+    "word": "automate",
+    "meaning": "使自動化；用自動裝置操作",
+    "example": "We need to automate our inventory management system to reduce manual errors.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ad47d41a",
+    "word": "introduced",
+    "meaning": "介紹；引進；推出",
+    "example": "Our company introduced a new product line to the market last quarter.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "ac6549aa",
+    "word": "integrate",
+    "meaning": "整合、融合、使成為一體",
+    "example": "We need to integrate the new software system with our existing platform.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "37b4df90",
+    "word": "vulnerable",
+    "meaning": "易受傷害的、脆弱的、容易受到攻擊或批評的",
+    "example": "Our company's data security system was vulnerable to cyber attacks, so we invested in upgrading our infrastructure.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d698a13b",
+    "word": "rear",
+    "meaning": "後面；養育；抬起（馬等動物的後腿）",
+    "example": "The rear of the building faces the garden, and we need to hire someone to rear the new employees properly.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "da7bf545",
+    "word": "resist",
+    "meaning": "抵抗、反抗、抗拒",
+    "example": "We need to resist the urge to make hasty decisions in this negotiation.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ae437a8a",
+    "word": "abuse",
+    "meaning": "濫用；虐待；辱罵",
+    "example": "The company was accused of abusing its market power to eliminate competitors.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "76c09bed",
+    "word": "escalator",
+    "meaning": "自動扶梯",
+    "example": "Please take the escalator to the second floor of our office building.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7ad4147b",
+    "word": "territory",
+    "meaning": "領土；地盤；範圍",
+    "example": "The company expanded its sales territory to include three new regions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c754c4be",
+    "word": "further",
+    "meaning": "更遠的；進一步的；促進",
+    "example": "We need to discuss this matter further in our next meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "11466adf",
+    "word": "nurtured",
+    "meaning": "培養、照顧、養育（過去式/過去分詞）",
+    "example": "The company has nurtured strong relationships with its key clients over the years.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cc09a2a6",
+    "word": "further",
+    "meaning": "更遠的；進一步的；促進",
+    "example": "We need to conduct further research before making a final decision.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "46fa11c0",
+    "word": "nostril",
+    "meaning": "鼻孔",
+    "example": "The air quality was so poor that we could see dust particles entering through our nostrils.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e3fc556c",
+    "word": "superficial",
+    "meaning": "表面的、膚淺的；不深入的",
+    "example": "The report only provides a superficial analysis of the market trends, lacking detailed research.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6fc417e7",
+    "word": "Drove",
+    "meaning": "駕駛；趕動（drive的過去式）",
+    "example": "She drove to the office meeting yesterday morning.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "e6489c84",
+    "word": "sweeping",
+    "meaning": "範圍廣泛的、全面的；掃除的",
+    "example": "The company announced sweeping changes to its management structure.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5746fd53",
+    "word": "broom",
+    "meaning": "掃帚；清除",
+    "example": "We need to broom the office floor before the client meeting.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "109b6081",
+    "word": "faint",
+    "meaning": "微弱的；昏倒",
+    "example": "We detected a faint signal from the competitor's marketing campaign.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "58a22083",
+    "word": "possessions",
+    "meaning": "擁有物；財產；所有物",
+    "example": "The company's possessions include real estate, equipment, and intellectual property.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "603068ad",
+    "word": "sullies",
+    "meaning": "弄髒；損害（名譽、形象等）",
+    "example": "The scandal sullies the company's reputation in the market.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "7969e3b3",
+    "word": "obsessive",
+    "meaning": "過度執著的；強迫性的；令人無法停止思考的",
+    "example": "His obsessive attention to detail has earned him a reputation as a perfectionist in the workplace.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "96442add",
+    "word": "comprehend",
+    "meaning": "理解、明白",
+    "example": "Do you comprehend the implications of this contract?",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "72ae7796",
+    "word": "arrogant",
+    "meaning": "傲慢的、自大的",
+    "example": "The arrogant manager dismissed all suggestions from his team members.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "9c73017e",
+    "word": "virtually",
+    "meaning": "實際上；幾乎；基本上；以虛擬方式",
+    "example": "We have virtually completed the project, with only minor adjustments remaining.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "967f2274",
+    "word": "implications",
+    "meaning": "暗示；隱含意義；牽連；可能的結果或影響",
+    "example": "We need to discuss the implications of this policy change on our budget.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "535146f7",
+    "word": "pajamas",
+    "meaning": "睡衣褲；全套睡衣",
+    "example": "I need to pack my pajamas for the business trip.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "bc0a5929",
+    "word": "opposed to",
+    "meaning": "反對；對立於；與...相反",
+    "example": "As opposed to hiring full-time employees, we decided to work with freelance contractors.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c551eeaa",
+    "word": "flick",
+    "meaning": "輕快地彈動或揮動；快速翻動",
+    "example": "She flicked through the document quickly before the meeting started.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1b589171",
+    "word": "virility",
+    "meaning": "男性氣概；男性的力量或生育能力",
+    "example": "The advertisement emphasizes products that enhance male virility and confidence.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4132101a",
+    "word": "Sassy",
+    "meaning": "自信且大膽的，有時帶點頑皮或不敬的態度",
+    "example": "She gave a sassy response to the client's unreasonable demand during the meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "28e4b39c",
+    "word": "bossy",
+    "meaning": "專制的、喜歡指揮他人的",
+    "example": "The project manager's bossy attitude made team members uncomfortable in meetings.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ae6d7b3b",
+    "word": "plenty",
+    "meaning": "充足；大量；許多",
+    "example": "We have plenty of time to complete this project before the deadline.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "4da50e27",
+    "word": "degrading",
+    "meaning": "令人感到羞辱的；使降級或惡化的",
+    "example": "The company found the working conditions degrading and decided to improve them immediately.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "33208356",
+    "word": "unflattering",
+    "meaning": "不恭維的；不討人喜歡的；使人顯得不好看的",
+    "example": "The unflattering review of our product hurt our sales significantly.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6a6f96e6",
+    "word": "in a nutshell",
+    "meaning": "簡而言之；用一句話概括",
+    "example": "In a nutshell, our proposal will reduce costs by 30% over the next fiscal year.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6daa1b20",
+    "word": "miserable",
+    "meaning": "悲慘的、痛苦的、令人同情的、卑劣的",
+    "example": "The miserable weather conditions forced us to postpone the outdoor conference.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "35396a15",
+    "word": "accessory",
+    "meaning": "配件、附件；從犯、共謀者",
+    "example": "The leather belt is a popular accessory that completes the business casual outfit.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "fed75f45",
+    "word": "portable",
+    "meaning": "便攜式的；可攜帶的",
+    "example": "Our company provides portable solutions that allow employees to work from anywhere.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "38b773f3",
+    "word": "Estimates",
+    "meaning": "估計；評估；估價",
+    "example": "We need to provide cost estimates for the project before the deadline.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bb9c81be",
+    "word": "claim",
+    "meaning": "聲稱；主張；索賠",
+    "example": "The company claims that their product is the most eco-friendly on the market.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2cdcfb3a",
+    "word": "downside",
+    "meaning": "缺點、負面影響或風險",
+    "example": "The downside of remote work is the lack of face-to-face interaction with colleagues.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "07320d29",
+    "word": "disposed of",
+    "meaning": "處理、處置、丟棄",
+    "example": "The company disposed of the hazardous waste according to environmental regulations.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e0b4ff04",
+    "word": "disposed",
+    "meaning": "傾向於；有意願的；安排；處置",
+    "example": "The team is well disposed to accept the new proposal after the successful pilot program.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2f1d2535",
+    "word": "contain",
+    "meaning": "包含；容納；控制；遏制",
+    "example": "This contract contains several important clauses that both parties must agree to.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ebd49f01",
+    "word": "copper",
+    "meaning": "銅；銅色；銅幣或銅製的小硬幣",
+    "example": "The company invested in copper futures as the metal is essential for renewable energy infrastructure.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ef8ce3ed",
+    "word": "wiring",
+    "meaning": "電線系統；佈線；電氣配線",
+    "example": "The building's electrical wiring needs to be upgraded to meet current safety standards.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0d6824d2",
+    "word": "components",
+    "meaning": "組成部分；零件；成分",
+    "example": "The software system consists of several key components that work together.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1552ee2d",
+    "word": "considerable",
+    "meaning": "相當大的、值得注意的、重要的",
+    "example": "The project required considerable investment to complete successfully.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2a2e1426",
+    "word": "amount",
+    "meaning": "數量、金額",
+    "example": "The total amount of the invoice is $5,000.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "9ed1e856",
+    "word": "sustainably",
+    "meaning": "以可持續的方式；以永續的方式",
+    "example": "Our company is committed to operating sustainably to reduce environmental impact.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "10544832",
+    "word": "dispose",
+    "meaning": "處理、處置；有傾向於",
+    "example": "We need to dispose of the old equipment properly before purchasing new machinery.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4badf587",
+    "word": "disposal",
+    "meaning": "處理、處置；丟棄；可自由支配",
+    "example": "The company needs to plan for the proper disposal of hazardous waste materials.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c44eb95e",
+    "word": "Waste disposal",
+    "meaning": "廢棄物處理；垃圾處理",
+    "example": "Our company has implemented a new waste disposal system to reduce environmental impact.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8dc091c3",
+    "word": "installation",
+    "meaning": "安裝；裝置；設施",
+    "example": "The installation of the new software system will take place next week.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3d88544b",
+    "word": "tempted",
+    "meaning": "受到誘惑的；想要做某事的",
+    "example": "I was tempted to leave the meeting early, but I decided to stay professional.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "216d4bbc",
+    "word": "convince",
+    "meaning": "說服、使相信",
+    "example": "We need to convince our clients that this investment is worthwhile.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "65e7dbf3",
+    "word": "persuade",
+    "meaning": "說服；勸說",
+    "example": "The sales team persuaded the client to sign the contract by presenting a compelling proposal.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "17cc2311",
+    "word": "temporarily",
+    "meaning": "暫時地；短暫地",
+    "example": "The office will be temporarily closed for renovations next month.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4ad1130b",
+    "word": "suddenly",
+    "meaning": "突然地、忽然地",
+    "example": "The market suddenly shifted, requiring us to revise our business strategy.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "a983f2ce",
+    "word": "rounding up",
+    "meaning": "向上取整；湊整；進位",
+    "example": "We're rounding up the figures to the nearest thousand for the quarterly report.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3b4131f0",
+    "word": "steep",
+    "meaning": "陡峭的；急劇的；(價格)高得離譜的",
+    "example": "The company faced a steep increase in operational costs this quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "037f7c29",
+    "word": "ordinary",
+    "meaning": "普通的、平常的、非特殊的",
+    "example": "This is an ordinary business meeting with nothing out of the ordinary discussed.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "65273c89",
+    "word": "turns out",
+    "meaning": "結果證明；後來發現（某事實）",
+    "example": "It turns out that our main competitor was acquired last month, which we didn't know about.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "650f7bb6",
+    "word": "kidney",
+    "meaning": "腎臟；腎形物",
+    "example": "The company needs to undergo a kidney transplant in terms of organizational restructuring.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "c1239b00",
+    "word": "conventional",
+    "meaning": "按照傳統或習慣的；常規的；普通的",
+    "example": "We decided to adopt a conventional approach rather than experiment with new marketing strategies.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "65d36134",
+    "word": "confess",
+    "meaning": "承認；坦白；向神父懺悔",
+    "example": "The employee confessed to making mistakes in the financial report.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9d96e064",
+    "word": "skit",
+    "meaning": "短劇；小品劇",
+    "example": "The marketing team performed a humorous skit to present the new product launch strategy.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ee191d99",
+    "word": "enthused",
+    "meaning": "充滿熱情的；感到熱心的",
+    "example": "The team was enthused about the new project and immediately began brainstorming ideas.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4d314894",
+    "word": "gesture",
+    "meaning": "手勢、姿態；姿勢性的動作或象徵性的舉動",
+    "example": "The manager made a welcoming gesture to the new team members during the meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "06cdc1a6",
+    "word": "Charity",
+    "meaning": "慈善；慈悲心；慈善機構",
+    "example": "Our company donated a large sum to a local charity that helps underprivileged children.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ebfce41e",
+    "word": "awkward",
+    "meaning": "不便的、尷尬的、笨拙的",
+    "example": "It was an awkward situation when two team members presented conflicting proposals at the meeting.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "c7234599",
+    "word": "bumpy",
+    "meaning": "不平坦的；崎嶇的；顛簸的",
+    "example": "The flight experienced a bumpy ride due to turbulence, and several passengers felt uncomfortable.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9cb7fe76",
+    "word": "realistic",
+    "meaning": "現實的、實際的、務實的；逼真的",
+    "example": "We need to set realistic goals for this quarter to ensure the team can meet them.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b1721dff",
+    "word": "imitation",
+    "meaning": "仿製品；模仿",
+    "example": "This leather is an imitation of the original designer product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c7ee2a23",
+    "word": "deliberate",
+    "meaning": "故意的；經過深思熟慮的；或動詞「仔細考慮」",
+    "example": "The company made a deliberate decision to enter the Asian market after careful analysis.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "69f3a7ea",
+    "word": "confidently",
+    "meaning": "自信地；有把握地",
+    "example": "She confidently presented the quarterly report to the board of directors.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a7ebb06b",
+    "word": "appropriate",
+    "meaning": "適當的、合適的；撥款；挪用",
+    "example": "It is appropriate to dress formally for the business meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8e0b90ac",
+    "word": "distinguish",
+    "meaning": "區分、分辨、辨別；使傑出、使著名",
+    "example": "We need to distinguish between the two types of product quality issues to address them effectively.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0e8ae388",
+    "word": "participate",
+    "meaning": "參與、參加",
+    "example": "All employees are encouraged to participate in the training program.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ab09501f",
+    "word": "distinction",
+    "meaning": "區別、差異；傑出、卓越；榮譽、名聲",
+    "example": "The company made a clear distinction between its premium and budget product lines.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4accf502",
+    "word": "deliberately",
+    "meaning": "故意地、有意地",
+    "example": "The company deliberately delayed the product launch to avoid competition.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9b0aaeb8",
+    "word": "repellent",
+    "meaning": "令人厭惡的；防水/防蟲的物質",
+    "example": "We applied insect repellent before the outdoor conference to avoid distractions.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "9cec1b0c",
+    "word": "hideously",
+    "meaning": "以令人厭惡或極其醜陋的方式；極其令人不快地",
+    "example": "The project was hideously over budget, causing concern among stakeholders.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "dfd64cc5",
+    "word": "insulation",
+    "meaning": "隔離；絕緣；隔熱材料",
+    "example": "We need to improve the insulation in our office building to reduce energy costs.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "41fc430c",
+    "word": "stretchy",
+    "meaning": "有彈性的、伸縮性強的",
+    "example": "We need to find a stretchy fabric for the new activewear line.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "52340724",
+    "word": "opt",
+    "meaning": "選擇；決定參與或不參與",
+    "example": "Many employees opted to work from home after the policy change.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "301b0f79",
+    "word": "sanity",
+    "meaning": "心智健全；理智；精神狀態正常",
+    "example": "The auditor questioned the sanity of the company's financial decisions during the merger.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "16c74df9",
+    "word": "brush",
+    "meaning": "刷子；刷、掃；輕輕碰觸",
+    "example": "Please brush the crumbs off the table before the client arrives.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "2bc5bce4",
+    "word": "sunk",
+    "meaning": "沉沒的；下沉的（sink 的過去分詞）",
+    "example": "The company's investment in that failed project is sunk cost, so we should not consider it when making future decisions.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "dd4bb1a9",
+    "word": "waist",
+    "meaning": "腰部；腰圍",
+    "example": "The new dress has a fitted waist that flatters the figure.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "72c207a4",
+    "word": "synthetic",
+    "meaning": "合成的；人工製造的；不是天然的",
+    "example": "Our company has developed a synthetic alternative to natural rubber that is more cost-effective.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "444bebfd",
+    "word": "substitute",
+    "meaning": "替代品；代替",
+    "example": "We need to find a substitute for the original supplier due to quality issues.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1f2aad93",
+    "word": "recipes",
+    "meaning": "食譜；配方；解決方法",
+    "example": "Our company has developed several recipes for success in the Asian market.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "6e594be1",
+    "word": "column",
+    "meaning": "柱子；欄位；縱隊；專欄",
+    "example": "Please enter your data in the first column of the spreadsheet.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "fcc6ee7c",
+    "word": "spoiled",
+    "meaning": "被寵壞的；變質的；腐敗的",
+    "example": "The spoiled child refused to listen to his parents during the meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f2a7e703",
+    "word": "ditzy",
+    "meaning": "健忘的、頭腦不清楚的、散漫的",
+    "example": "She made a ditzy mistake by sending the email to the wrong client.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2f131638",
+    "word": "implying",
+    "meaning": "暗示；含有...的意思；導致",
+    "example": "The report is implying that the project will be delayed without additional funding.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4c954ac1",
+    "word": "inattentive",
+    "meaning": "不注意的、漫不經心的、缺乏專注力的",
+    "example": "The manager noticed that the employee was inattentive during the client presentation.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2a13d9ad",
+    "word": "distracted",
+    "meaning": "分心的、注意力不集中的",
+    "example": "During the meeting, the client seemed distracted and didn't focus on our proposal.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "936964dc",
+    "word": "justified",
+    "meaning": "合理的、正當的、有根據的",
+    "example": "The manager's decision to delay the project was justified by the lack of resources.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1ad0a2ee",
+    "word": "differentiate",
+    "meaning": "區分、區別；求導數",
+    "example": "Our product features differentiate us from competitors in the market.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e073f5db",
+    "word": "wandering",
+    "meaning": "漫步；流浪；心不在焉",
+    "example": "His wandering mind made it difficult to focus during the important presentation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "991b981e",
+    "word": "whereas",
+    "meaning": "然而、但是；鑑於（表達對比或引入法律條款）",
+    "example": "The contract specifies a 30-day delivery period, whereas the previous agreement allowed 60 days.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "31bba278",
+    "word": "spontaneous",
+    "meaning": "自發的、自然而然的、未經計畫的",
+    "example": "The team's spontaneous decision to launch the product early surprised everyone.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f4ccc295",
+    "word": "comprehension",
+    "meaning": "理解、領悟；理解力",
+    "example": "The training program aims to improve employees' comprehension of the new company policies.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "19f89529",
+    "word": "meditating",
+    "meaning": "冥想、沉思",
+    "example": "She starts her day by meditating for 30 minutes to improve her focus and productivity.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "de29b794",
+    "word": "concluded",
+    "meaning": "完成、結束、得出結論",
+    "example": "The meeting concluded at 5 PM with a summary of action items.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "877da005",
+    "word": "noteworthy",
+    "meaning": "值得注意的、顯著的、重要的",
+    "example": "The company achieved noteworthy growth in the Asia-Pacific market this quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "b139eefe",
+    "word": "extent",
+    "meaning": "範圍、程度、範圍大小",
+    "example": "The extent of the damage from the cyberattack is still being assessed by our IT team.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5f01d4b0",
+    "word": "pondering",
+    "meaning": "深思熟慮；仔細考慮",
+    "example": "The manager is pondering whether to accept the merger offer.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6f610597",
+    "word": "mindfulness",
+    "meaning": "專注當下、正念；對自己的思想和感受保持有意識的覺知狀態",
+    "example": "Our company introduced a mindfulness program to help employees reduce stress and improve focus.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2baf2a42",
+    "word": "technique",
+    "meaning": "技術、技巧、方法",
+    "example": "Our company has developed a new marketing technique to reach younger consumers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "02bbd432",
+    "word": "visualise",
+    "meaning": "視覺化、想像、設想",
+    "example": "The project manager asked the team to visualise the workflow before implementation.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d97d4942",
+    "word": "Alternatively",
+    "meaning": "另外地；或者；作為替代方案",
+    "example": "We can meet on Monday, or alternatively, we could reschedule for next week.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e55d3216",
+    "word": "decorating",
+    "meaning": "裝飾；用裝飾品布置",
+    "example": "The team is decorating the conference room for the corporate event tomorrow.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "d972df2a",
+    "word": "meadow",
+    "meaning": "草地，草原（通常是天然的、有草的平坦土地）",
+    "example": "The company held its team-building event in a beautiful meadow outside the city.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "038f099c",
+    "word": "leather",
+    "meaning": "皮革；用動物皮製成的材料",
+    "example": "Our company specializes in high-quality leather goods for the corporate market.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "06337a0b",
+    "word": "whiny",
+    "meaning": "愛發牢騷的、喜歡哭訴的",
+    "example": "The client's whiny complaints made it difficult for our team to focus on the core issues.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a3770184",
+    "word": "insecure",
+    "meaning": "不安全的；缺乏自信的；不穩定的",
+    "example": "The company felt insecure about its market position after the competitor's new product launch.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "366c1702",
+    "word": "irresponsible",
+    "meaning": "不負責任的；不可靠的",
+    "example": "It would be irresponsible of us to proceed without proper risk assessment.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0a448b58",
+    "word": "knob",
+    "meaning": "把手；圓形的開關或控制裝置",
+    "example": "Please turn the volume knob to adjust the speaker level in the conference room.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "c1736852",
+    "word": "tropical",
+    "meaning": "與熱帶有關的；炎熱潮濕的",
+    "example": "Our company is expanding its tropical fruit import business to Southeast Asia.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9fbed5ad",
+    "word": "inconvenience",
+    "meaning": "不便；麻煩；造成不便",
+    "example": "We apologize for any inconvenience this system outage may cause to our clients.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c4d030e2",
+    "word": "affection",
+    "meaning": "感情、喜愛、疼愛",
+    "example": "The manager showed genuine affection for her team members by remembering their personal milestones.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "fd808aed",
+    "word": "avert",
+    "meaning": "轉向；避免；防止",
+    "example": "The company took quick action to avert a potential crisis.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8710d715",
+    "word": "mug",
+    "meaning": "馬克杯；搶劫",
+    "example": "She sipped her coffee from a ceramic mug while reviewing the quarterly report.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "4d445f8a",
+    "word": "ecstatic",
+    "meaning": "狂喜的；欣喜若狂的",
+    "example": "The team was ecstatic after winning the championship.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a6ff1e9e",
+    "word": "🔊 straighten it out —",
+    "meaning": "整理、釐清、解決",
+    "example": "We need to straighten out the contract terms before signing the agreement.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a156e94a",
+    "word": "dull",
+    "meaning": "遲鈍的、乏味的、暗沉的",
+    "example": "The meeting was dull and didn't engage the audience effectively.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "9b0a2778",
+    "word": "spare",
+    "meaning": "多餘的；備用的；空閒的；節省",
+    "example": "We need to keep a spare key in the office in case of emergency.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ae6b0adc",
+    "word": "revise",
+    "meaning": "修改、修訂、複習",
+    "example": "We need to revise the proposal based on the client's feedback.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "17c5ccee",
+    "word": "then",
+    "meaning": "那時；然後；那麼；在那種情況下",
+    "example": "We will finish the project by Friday, and then we can start working on the next phase.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "33575686",
+    "word": "deprecating",
+    "meaning": "表示反對或不贊成；貶低或輕視",
+    "example": "The manager made a self-deprecating remark about his presentation skills during the meeting.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a9d45be6",
+    "word": "charity",
+    "meaning": "慈善；慈悲心；慈善機構",
+    "example": "Our company donated 5% of profits to charity last year.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ca0a3b97",
+    "word": "comedian",
+    "meaning": "喜劇演員；製造笑料的人",
+    "example": "The comedian's performance at the corporate event kept the audience laughing throughout the evening.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d7fd6066",
+    "word": "flaws",
+    "meaning": "缺陷、瑕疵、缺點（通常指結構或品質上的問題）",
+    "example": "The quality control team identified several flaws in the product design before it went to production.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bdcfd7b0",
+    "word": "light-hearted",
+    "meaning": "輕鬆愉快的、不認真的、無憂無慮的",
+    "example": "We had a light-hearted discussion about office gossip during the lunch break.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7eb1345d",
+    "word": "connectedness",
+    "meaning": "連接的狀態；相連性；有關聯性",
+    "example": "The connectedness between different departments improved after implementing the new communication system.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d1fef5e7",
+    "word": "Conversely",
+    "meaning": "相反地；反過來說",
+    "example": "Sales increased in the domestic market; conversely, exports declined significantly this quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "0b1581b7",
+    "word": "trait",
+    "meaning": "特徵、特質；性狀",
+    "example": "One of the key traits of a successful manager is the ability to communicate effectively with diverse teams.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a730be9d",
+    "word": "avoidance",
+    "meaning": "迴避、規避、避免的行為",
+    "example": "The company's tax avoidance strategy has attracted scrutiny from regulatory authorities.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "09933e46",
+    "word": "revel",
+    "meaning": "狂歡、沉溺於某事中",
+    "example": "The team reveled in their victory and celebrated throughout the night.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d110ee54",
+    "word": "caterer",
+    "meaning": "承辦宴會的人；餐飲承包商",
+    "example": "We hired a professional caterer to handle the food and beverages for our corporate event.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "15118a09",
+    "word": "intense",
+    "meaning": "強烈的、劇烈的；(人)認真投入的",
+    "example": "The intense competition in the market has forced us to innovate our product strategy.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7f589066",
+    "word": "inspect",
+    "meaning": "檢查、檢驗、視察",
+    "example": "The auditor will inspect our financial records next week.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8f68481c",
+    "word": "dicing",
+    "meaning": "切成小塊狀",
+    "example": "The chef is dicing onions for the stir-fry.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "07fe5ebc",
+    "word": "gelotophobe",
+    "meaning": "害怕被嘲笑的人；對嘲笑有病態恐懼的人",
+    "example": "As a gelotophobe, she finds it difficult to participate in team meetings where humor is common.",
+    "cefr_level": "C1"
+  },
+  {
+    "id": "57ab8eb7",
+    "word": "satisfaction",
+    "meaning": "滿足感；滿意度",
+    "example": "The client expressed high satisfaction with our service delivery.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0312942f",
+    "word": "elixir",
+    "meaning": "靈丹妙藥；萬靈藥；神奇的解決方案",
+    "example": "The company is searching for the elixir that will solve their financial problems.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5fde94e3",
+    "word": "antidote",
+    "meaning": "解毒劑；對抗某事物的方法或措施",
+    "example": "The company implemented new policies as an antidote to employee turnover.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d2defd6f",
+    "word": "arrogance",
+    "meaning": "傲慢、自大的態度",
+    "example": "His arrogance prevented him from listening to valuable feedback from his team members.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "69adcb8a",
+    "word": "coping mechanism",
+    "meaning": "面對壓力或困難時所採用的應對策略或方法",
+    "example": "Employees need healthy coping mechanisms to manage workplace stress effectively.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4c64e25e",
+    "word": "Making light of",
+    "meaning": "輕視、淡化某事的嚴重性；用幽默或不認真的態度對待",
+    "example": "The manager was making light of the project delay, but the client was clearly disappointed.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "3ab8c32b",
+    "word": "panicking",
+    "meaning": "驚慌失措；陷入恐慌",
+    "example": "The staff were panicking when the system crashed during the presentation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c411a04a",
+    "word": "sarcastically",
+    "meaning": "以嘲諷的方式；用尖刻的言語",
+    "example": "When he said 'Great job on that terrible presentation,' he spoke sarcastically.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "04214e86",
+    "word": "vanish",
+    "meaning": "消失、不見",
+    "example": "The company's profits vanished after the scandal became public.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "838ea1c5",
+    "word": "resilience",
+    "meaning": "恢復力、韌性；能夠從困難中恢復的能力",
+    "example": "The company demonstrated great resilience by recovering quickly from the market downturn.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d899d9fd",
+    "word": "overwhelming",
+    "meaning": "壓倒性的、令人應接不暇的",
+    "example": "The positive feedback we received was overwhelming, which exceeded our expectations for the product launch.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "92f6563f",
+    "word": "bitterness",
+    "meaning": "苦味；苦澀；怨恨；痛苦的感受",
+    "example": "The bitterness between the two competitors lasted for years after the failed partnership.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f55e4c66",
+    "word": "implemented",
+    "meaning": "實施、執行（過去式）",
+    "example": "We implemented the new software system across all departments last month.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ab919811",
+    "word": "progress",
+    "meaning": "進展、進步；向前發展",
+    "example": "We are making good progress on the new project. The company progressed into new markets last year.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "c12db380",
+    "word": "covering",
+    "meaning": "覆蓋物；掩蓋；涵蓋範圍",
+    "example": "The insurance policy covering includes liability and property damage.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3cf5ee43",
+    "word": "restrictions",
+    "meaning": "限制、限制措施",
+    "example": "The company imposed new restrictions on remote work after the pandemic.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bd1048c8",
+    "word": "squeeze",
+    "meaning": "用力壓、擠",
+    "example": "We need to squeeze more productivity out of our current budget.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7a40f30a",
+    "word": "cater",
+    "meaning": "提供飲食服務；滿足需求",
+    "example": "Our company caters to the needs of corporate clients by providing customized solutions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "225e6ad9",
+    "word": "format",
+    "meaning": "格式、形式；排版、編排",
+    "example": "Please submit your report in PDF format.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f5ebf3b7",
+    "word": "vertical",
+    "meaning": "垂直的；沿著上下方向的",
+    "example": "We need to install vertical shelving to maximize storage space in the office.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "947c05b1",
+    "word": "collapsed",
+    "meaning": "倒塌的；崩潰的；突然失敗或停止運作的",
+    "example": "The company's collapsed business model forced management to restructure the entire operation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f9e5496c",
+    "word": "bust-ups",
+    "meaning": "爆炸；突然的失敗或崩潰；吵架；打鬥",
+    "example": "The company experienced several bust-ups in its supply chain during the pandemic.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "da49547e",
+    "word": "nuance",
+    "meaning": "細微的差別或差異；微妙之處",
+    "example": "The contract's legal nuances require careful review before signing.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "89235d55",
+    "word": "monetisation",
+    "meaning": "貨幣化；將資產或收入轉換成現金的過程",
+    "example": "The company's monetisation strategy includes advertising, subscriptions, and premium features.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "de3a6452",
+    "word": "cliffhangers",
+    "meaning": "懸念式的結局；令人期待下一步發展的故事情節",
+    "example": "The TV series ended with multiple cliffhangers that left viewers desperate to know what happens next season.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "adecb0ba",
+    "word": "pouty",
+    "meaning": "撅嘴的；生氣不悅的；突出的",
+    "example": "The client gave a pouty expression when we informed her that the project deadline would be extended.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a209c428",
+    "word": "chin",
+    "meaning": "下巴；頸部下方的突出部位",
+    "example": "The client rubbed his chin thoughtfully while reviewing the proposal.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "7d20309c",
+    "word": "sight",
+    "meaning": "視力、視線、景象、看見",
+    "example": "The beautiful view came into sight as we drove up the mountain.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "f5fa2069",
+    "word": "raisins",
+    "meaning": "葡萄乾；曬乾的葡萄",
+    "example": "We ordered a box of premium raisins from our supplier for the new granola line.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "f1491b6d",
+    "word": "stalker",
+    "meaning": "跟蹤者；狩獵者；長腿昆蟲（如蝗蟲）",
+    "example": "The company took legal action against the stalker who had been harassing the CEO on social media.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ceda407b",
+    "word": "maniac",
+    "meaning": "瘋狂的人；極度狂熱者",
+    "example": "The company hired a marketing maniac who is obsessed with social media strategies.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1427e27a",
+    "word": "informative",
+    "meaning": "提供有用信息的；有教育意義的",
+    "example": "The quarterly report was very informative and helped us understand the market trends.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "966aec86",
+    "word": "inappropriate",
+    "meaning": "不適當的、不恰當的、不得體的",
+    "example": "Using slang in a formal business presentation would be inappropriate.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5a9c4447",
+    "word": "bribe",
+    "meaning": "賄賂；用金錢或禮物非法誘使他人做某事",
+    "example": "The company was accused of offering bribes to government officials to secure the contract.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "18b7e6ee",
+    "word": "immediately",
+    "meaning": "立即地、馬上地、直接地",
+    "example": "Please submit your report immediately after the meeting ends.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "fd71d260",
+    "word": "paranoid",
+    "meaning": "過度猜疑的；偏執的；患有妄想症的",
+    "example": "The manager became paranoid about employees leaking confidential information to competitors.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2d3c0383",
+    "word": "camouflage",
+    "meaning": "偽裝；掩飾",
+    "example": "The company used aggressive marketing to camouflage its financial difficulties.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8abbf875",
+    "word": "goofy",
+    "meaning": "愚蠢的、滑稽的、不莊重的",
+    "example": "His goofy smile made everyone laugh during the serious meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "74206977",
+    "word": "exception",
+    "meaning": "例外；例外情況",
+    "example": "All employees must follow the dress code, with no exceptions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8ad8271a",
+    "word": "engraved",
+    "meaning": "雕刻的；銘刻的",
+    "example": "The company logo was engraved on the trophy to commemorate the award winners.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e26faab4",
+    "word": "occasion",
+    "meaning": "場合、機會、原因",
+    "example": "This conference is a great occasion to network with industry leaders.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "22bc648c",
+    "word": "bracelet",
+    "meaning": "手鐲；手環",
+    "example": "She wore a gold bracelet to the business conference.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ec0427b4",
+    "word": "tearing",
+    "meaning": "撕裂、眼淚流下、快速移動",
+    "example": "The tearing sound of the document was loud during the meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "dd096ba2",
+    "word": "lettuce",
+    "meaning": "生菜；萵苣",
+    "example": "We serve fresh lettuce salad with every lunch order.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "90a528ec",
+    "word": "slice up",
+    "meaning": "切成片；分割",
+    "example": "We need to slice up the documents into smaller sections for easier management.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e29c239b",
+    "word": "julienne",
+    "meaning": "朱麗安切法；指將食材切成細長條狀的切法",
+    "example": "Please julienne the carrots for the stir-fry dish.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f8ddd7eb",
+    "word": "trophies",
+    "meaning": "獎杯、獎品、戰利品（複數）",
+    "example": "The company displayed all its industry trophies in the conference room to showcase its achievements.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1f0bd1d6",
+    "word": "clobbered",
+    "meaning": "擊敗；狠狠打敗；受到重創",
+    "example": "Our sales team got clobbered by the competitor's aggressive marketing campaign last quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5a930b7a",
+    "word": "symbol",
+    "meaning": "象徵；符號；代表某事物的記號或事物",
+    "example": "The dove is a symbol of peace in many cultures.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3278a4c2",
+    "word": "dips",
+    "meaning": "浸；蘸；下降；沾醬",
+    "example": "The sales figures show a slight dip in Q3, but we expect to recover in Q4.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "79bdf23c",
+    "word": "temporarily",
+    "meaning": "暫時地、臨時地",
+    "example": "The office will be closed temporarily due to renovations.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b5064588",
+    "word": "components",
+    "meaning": "組成部分、零組件",
+    "example": "The software consists of several key components that work together to ensure system stability.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6aae6a66",
+    "word": "resistance",
+    "meaning": "抵抗、阻力、反抗",
+    "example": "The company faced strong resistance from employees when implementing the new software system.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3f48b11d",
+    "word": "preliminary",
+    "meaning": "初步的、預備性的、在正式進行之前的",
+    "example": "We need to conduct preliminary research before launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "fd6b0353",
+    "word": "nationwide",
+    "meaning": "全國範圍的；覆蓋整個國家的",
+    "example": "The company launched a nationwide marketing campaign to increase brand awareness.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a3a0c69c",
+    "word": "Course",
+    "meaning": "課程；進展方向；一道菜；路線",
+    "example": "I'm taking an online course on project management this quarter.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "b1eaf761",
+    "word": "enrol",
+    "meaning": "登記、註冊、報名",
+    "example": "Students need to enrol in courses before the semester begins.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ff1c5144",
+    "word": "quotation",
+    "meaning": "引用；報價；行情",
+    "example": "The sales team provided a quotation for the new equipment worth $50,000.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d1afcae6",
+    "word": "obtain",
+    "meaning": "獲得、取得、得到",
+    "example": "We need to obtain approval from the board before proceeding with the project.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ab024878",
+    "word": "suspect",
+    "meaning": "懷疑；嫌疑人；可疑的",
+    "example": "The auditor suspects there may be irregularities in the company's financial records.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "550a45a9",
+    "word": "existing",
+    "meaning": "現存的、目前存在的",
+    "example": "We need to review all existing contracts before the merger.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "73ac8dde",
+    "word": "departing",
+    "meaning": "離開、出發，通常指離開某個地點或結束工作",
+    "example": "The departing flights are delayed due to bad weather.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "6e358ce2",
+    "word": "abandoning",
+    "meaning": "放棄、拋棄、遺棄",
+    "example": "The company is abandoning its outdated product line to focus on innovation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2b86e444",
+    "word": "defecting",
+    "meaning": "背棄、叛逃；指某人離開原本的國家、組織或陣營而投靠敵方或對立方",
+    "example": "The engineer is defecting to a competitor company next month, taking valuable trade secrets with him.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "223fe7a6",
+    "word": "withdrawing",
+    "meaning": "撤回、退出、提取（金錢）",
+    "example": "The company is withdrawing its investment from the market due to recent economic challenges.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "dd4e0930",
+    "word": "in the press",
+    "meaning": "在新聞媒體上；被報導中",
+    "example": "Our new product launch is in the press this week, so we expect increased brand awareness.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "86c37fa6",
+    "word": "experiment",
+    "meaning": "實驗；試驗",
+    "example": "We conducted an experiment to test the effectiveness of the new marketing strategy.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ea29b8a7",
+    "word": "attempt",
+    "meaning": "嘗試、試圖；企圖",
+    "example": "We will attempt to complete the project before the deadline.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "355adb33",
+    "word": "qualitative",
+    "meaning": "關於性質或特性的；質的（相對於量的）",
+    "example": "We conducted a qualitative analysis of customer feedback to understand their satisfaction levels.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "57c8ad11",
+    "word": "carry out",
+    "meaning": "執行、進行、完成（任務、計畫、研究等）",
+    "example": "We need to carry out a market analysis before launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bbaf7f9c",
+    "word": "Whichever",
+    "meaning": "無論哪一個；無論哪一個的；任何一個",
+    "example": "You can choose whichever option works best for your business needs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1a02515d",
+    "word": "frame",
+    "meaning": "框架；骨架；畫面；陷害",
+    "example": "We need to frame the project timeline within the next quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "be006873",
+    "word": "accordingly",
+    "meaning": "因此；相應地；據此",
+    "example": "The market demand increased, and we adjusted our production schedule accordingly.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0f7aebc5",
+    "word": "outset",
+    "meaning": "開始；起初",
+    "example": "At the outset of the project, we need to clarify all requirements with the client.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "59c8bf6e",
+    "word": "origin",
+    "meaning": "起源、來源、出身地",
+    "example": "The company's origin dates back to 1995 when two entrepreneurs founded it in a small garage.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d0b1e199",
+    "word": "foundation",
+    "meaning": "基礎；地基；基金會",
+    "example": "The company laid a strong foundation for its digital transformation by investing in employee training.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8d389e70",
+    "word": "reputation",
+    "meaning": "名聲、聲譽",
+    "example": "The company has built a strong reputation for quality and customer service over the past decade.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "31b2c146",
+    "word": "peril",
+    "meaning": "危險、危害",
+    "example": "The company faces serious financial peril if the merger falls through.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3ff2d274",
+    "word": "hazard",
+    "meaning": "危險；危害；冒險",
+    "example": "The company must identify potential hazards in the workplace to ensure employee safety.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6815a431",
+    "word": "embark",
+    "meaning": "開始進行（某項計畫或冒險）；上船",
+    "example": "The company is embarking on a new product development strategy next quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4d69ffe0",
+    "word": "disillusioned",
+    "meaning": "對某事感到失望和失去信心；幻滅的",
+    "example": "After the merger, many employees felt disillusioned with the company's new direction.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "acc0bf04",
+    "word": "downright",
+    "meaning": "完全的、徹底的；直率的、坦白的",
+    "example": "The project was a downright failure due to poor planning and inadequate resources.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "8664da80",
+    "word": "sloppy",
+    "meaning": "邋遢的、不整潔的；粗心的、馬虎的",
+    "example": "The report was full of sloppy errors and we had to revise it before submitting to the client.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c5404909",
+    "word": "strikes",
+    "meaning": "罷工；打擊；(時鐘)敲響",
+    "example": "The labor union announced strikes to demand better working conditions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5e7c9860",
+    "word": "dull",
+    "meaning": "不鮮明的、遲鈍的、無趣的",
+    "example": "The market showed dull performance last quarter, with minimal trading activity.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "01aa599a",
+    "word": "smitten",
+    "meaning": "深深愛上；被迷住；著迷的",
+    "example": "He was completely smitten with her from the moment they met at the conference.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "32688b9a",
+    "word": "Fail to deliver",
+    "meaning": "未能履行承諾或完成預期的任務",
+    "example": "The project manager warned that if the vendor fails to deliver on time, we will impose penalties.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8ae0b19b",
+    "word": "At the outset",
+    "meaning": "At the outset (phrase) 一開始；最初",
+    "example": "",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d6f53bbf",
+    "word": "Frame questions",
+    "meaning": "Frame questions (phrase) 設計問題；構思問題（frame 作動詞有「框架、擬定」之意）",
+    "example": "",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b00a53b2",
+    "word": "Crash course",
+    "meaning": "短期的密集課程或訓練，通常用來快速學習某個主題的基礎知識",
+    "example": "Before the conference, I took a crash course in the new software to get up to speed quickly.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f0ada4b4",
+    "word": "magnets",
+    "meaning": "磁鐵；具有吸引力的人或事物",
+    "example": "The company uses magnets to attract top talent from competitors.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "a10f175c",
+    "word": "souvenirs",
+    "meaning": "紀念品；留作紀念的物品",
+    "example": "We bought local souvenirs at the airport before returning home from our business trip.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "aeb07883",
+    "word": "miniature",
+    "meaning": "縮小的；袖珍的；微型的",
+    "example": "We displayed a miniature version of the prototype at the trade show to save on shipping costs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "40aea3fe",
+    "word": "replicas",
+    "meaning": "複製品、仿製品、副本",
+    "example": "The company was accused of selling replicas of luxury handbags without authorization.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1644a171",
+    "word": "retro",
+    "meaning": "懷舊的；復古的；回溯的",
+    "example": "The company launched a retro product line that appeals to nostalgic consumers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4c08ca6f",
+    "word": "figures",
+    "meaning": "數字；數據；人物；身材；數列模式",
+    "example": "The sales figures show a 15% increase compared to last quarter.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "0f2ac42a",
+    "word": "decorative",
+    "meaning": "裝飾性的；用於美化外觀的",
+    "example": "The company added decorative elements to the product packaging to make it more appealing to customers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "be24ee19",
+    "word": "nostalgic",
+    "meaning": "懷舊的；懷念過去的",
+    "example": "The company's nostalgic marketing campaign successfully appealed to consumers who grew up in the 1990s.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a26f2b39",
+    "word": "fiddle",
+    "meaning": "小提琴；胡亂調弄；欺騙或舞弊",
+    "example": "The accountant was caught fiddling with the company's financial records.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8e17de10",
+    "word": "accomplishment",
+    "meaning": "完成；成就；已完成的事情",
+    "example": "The successful launch of the new product line was a major accomplishment for our team.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d02cfeee",
+    "word": "Advocates",
+    "meaning": "提倡者；擁護者；或作為動詞表示主張、支持",
+    "example": "The company advocates for sustainable practices in the manufacturing industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1d278c9d",
+    "word": "possessions",
+    "meaning": "所有物；財產；佔有",
+    "example": "The company's possessions include real estate, equipment, and intellectual property.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cb4aa9db",
+    "word": "simplicity",
+    "meaning": "簡單、簡潔的特性或狀態",
+    "example": "The simplicity of our design process makes it easy for new team members to get up to speed.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f57223ad",
+    "word": "associated",
+    "meaning": "相關的、有關的、相伴的",
+    "example": "The associated costs of this project need to be reviewed before we proceed.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7eebd7e5",
+    "word": "hoarding",
+    "meaning": "囤積；儲存大量物品；或指用來遮擋建築物的臨時木板圍欄",
+    "example": "The company was accused of hoarding supplies during the shortage, which drove up prices for consumers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "7fff13a7",
+    "word": "clutter",
+    "meaning": "雜亂；使凌亂",
+    "example": "We need to declutter our office workspace to improve productivity and focus.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "021c549c",
+    "word": "distinction",
+    "meaning": "區別；差異；優異成就；榮譽",
+    "example": "The company makes a clear distinction between entry-level and senior positions in terms of salary and responsibilities.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "87af2ba0",
+    "word": "thoughtfully",
+    "meaning": "深思熟慮地；體貼周到地",
+    "example": "She thoughtfully considered the proposal before responding to her manager.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e63ca300",
+    "word": "curating",
+    "meaning": "策展；精心挑選和組織內容或物品",
+    "example": "Our marketing team is curating a collection of customer success stories for the new campaign.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "44deb875",
+    "word": "accumulating",
+    "meaning": "累積、堆積；不斷增加",
+    "example": "The company is accumulating debt due to poor cash flow management.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "151b5fb0",
+    "word": "excessive",
+    "meaning": "過度的、過量的、超過必要或合理程度的",
+    "example": "The company reduced excessive overtime to improve employee well-being.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0191a40f",
+    "word": "drawn into",
+    "meaning": "被捲入；被吸引參與某事",
+    "example": "The company was drawn into a legal dispute with its competitors.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5f2839a9",
+    "word": "endures",
+    "meaning": "忍受；持續存在；經得起",
+    "example": "The company endures strong competition in the market, but its reputation still endures after decades.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "008946f2",
+    "word": "portrait",
+    "meaning": "肖像；描寫",
+    "example": "The company commissioned a portrait of the founder to hang in the lobby.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0fc1a1bf",
+    "word": "decorated",
+    "meaning": "經過裝飾的；裝飾過的",
+    "example": "The conference room was beautifully decorated with flowers and banners for the annual meeting.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "2278ff8c",
+    "word": "genuine",
+    "meaning": "真正的、真實的、不虛假的",
+    "example": "We need genuine feedback from our clients to improve our products.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "aed55818",
+    "word": "claimed",
+    "meaning": "聲稱、主張、要求",
+    "example": "The company claimed that their product was the most efficient in the market.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b6e31b6c",
+    "word": "offbeat",
+    "meaning": "非傳統的、不同尋常的；樂曲中的弱拍",
+    "example": "The company's offbeat marketing approach attracted a younger demographic.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ad77a4b3",
+    "word": "glue",
+    "meaning": "膠水；黏合劑；或作動詞表示用膠水黏合",
+    "example": "Please glue the broken pieces of the report cover together before the presentation.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "5c2a9394",
+    "word": "drain",
+    "meaning": "排放；耗盡；流失",
+    "example": "The project drained our budget and resources.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "323a1709",
+    "word": "spare",
+    "meaning": "多餘的；備用的；節省；抽出時間",
+    "example": "Do you have any spare time this afternoon to review the proposal?",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "3e880038",
+    "word": "neglected",
+    "meaning": "被忽視的、被疏忽的、缺乏照顧的",
+    "example": "The company's neglected customer service department finally received the attention it deserved.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "fcc85bc4",
+    "word": "estimate",
+    "meaning": "估計、評估；估計值、評估結果",
+    "example": "We need to estimate the project cost before submitting the proposal.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "681324ae",
+    "word": "approximately",
+    "meaning": "大約、接近、約莫",
+    "example": "The project will cost approximately $50,000 to complete.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "35625980",
+    "word": "accurate",
+    "meaning": "精確的、準確的、無誤的",
+    "example": "We need to provide accurate financial data to our investors by the end of this quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f525b5a1",
+    "word": "retrace",
+    "meaning": "重新追蹤；回溯；沿著原路返回",
+    "example": "We need to retrace our steps to find the document we lost during the meeting.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1d9a82b8",
+    "word": "regress",
+    "meaning": "退步、倒退；回到較早的狀態",
+    "example": "The company's sales regressed to last year's levels after the product recall.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ef3cfdae",
+    "word": "resume",
+    "meaning": "履歷表；重新開始",
+    "example": "Please submit your resume along with a cover letter for the job application.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c7b90541",
+    "word": "vicinity",
+    "meaning": "附近、鄰近地區",
+    "example": "Our company is looking for office space in the vicinity of the airport.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bd83ea59",
+    "word": "established",
+    "meaning": "已確立的；成熟的；受認可的",
+    "example": "Our company is an established leader in the software industry with over 20 years of experience.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "7658d8b8",
+    "word": "evolved",
+    "meaning": "演變、進化（過去式或過去分詞）",
+    "example": "Our company's business model has evolved significantly over the past five years to meet changing market demands.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "45c8c3fb",
+    "word": "attribute",
+    "meaning": "特性、特徵；將...歸因於",
+    "example": "We attribute the project's success to the team's hard work and dedication.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e3856f83",
+    "word": "dedication",
+    "meaning": "獻身；奉獻；致力於某事的決心和努力",
+    "example": "Her dedication to the project earned her a promotion.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d1c6d433",
+    "word": "expertise",
+    "meaning": "專業知識；專家級的技能或知識",
+    "example": "Our team has deep expertise in digital marketing and brand strategy.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "12698f19",
+    "word": "workforce",
+    "meaning": "勞動力；員工隊伍",
+    "example": "The company is expanding its workforce to meet increased demand.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2d037f9c",
+    "word": "withdrawing",
+    "meaning": "撤回、退出、提取（金錢）",
+    "example": "The company is withdrawing from the Asian market due to regulatory challenges.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "472febb6",
+    "word": "outset",
+    "meaning": "開始；起初",
+    "example": "From the outset of our project, we established clear objectives and timelines.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "21d80c84",
+    "word": "strikes",
+    "meaning": "罷工；打擊；侵襲",
+    "example": "The workers' strikes disrupted production at the factory.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f54202a7",
+    "word": "apprentices",
+    "meaning": "學徒；徒弟（複數）",
+    "example": "The company hired five apprentices to learn the trade skills under experienced supervisors.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6bf65d75",
+    "word": "permanent",
+    "meaning": "永久的、持久的，不會改變或消除的",
+    "example": "We need to find a permanent solution to this supply chain problem rather than temporary fixes.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0d94004d",
+    "word": "range from A to B",
+    "meaning": "從A到B的範圍；介於A到B之間",
+    "example": "Our product prices range from $50 to $500 depending on features.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ea344979",
+    "word": "surveyors",
+    "meaning": "測量員；勘測人員（複數）",
+    "example": "The surveyors conducted a detailed land survey before the construction project began.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "86a1b2ec",
+    "word": "forefront",
+    "meaning": "最前面；最重要的位置；中心焦點",
+    "example": "Our company is at the forefront of innovation in the tech industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "00cbd9d0",
+    "word": "philosophy",
+    "meaning": "哲學；人生觀或做事的原則",
+    "example": "Our company's philosophy is to prioritize customer satisfaction above all else.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "61b53f03",
+    "word": "enthusiasm",
+    "meaning": "熱情、熱忱、積極的態度",
+    "example": "Her enthusiasm for the project motivated the entire team to meet the deadline.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b56428b1",
+    "word": "numerous",
+    "meaning": "數量很多的、眾多的",
+    "example": "We received numerous inquiries from potential clients after launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "690be233",
+    "word": "refurbishment",
+    "meaning": "翻新、整修、重新裝備",
+    "example": "The office refurbishment project will be completed by next quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d135ed76",
+    "word": "acoustic",
+    "meaning": "與聲音或聽覺有關的；不使用電子放大的",
+    "example": "We need to improve the acoustic quality of the conference room to ensure better communication during meetings.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ae66ce08",
+    "word": "preoccupied",
+    "meaning": "心不在焉的、被某事佔據心思的、專注於某事而忽視其他的",
+    "example": "During the meeting, our client seemed preoccupied and didn't engage with our proposal.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "39011a17",
+    "word": "committed",
+    "meaning": "承諾的；投入的；專注的；（在精神病院等）被強制入院的",
+    "example": "Our company is committed to providing excellent customer service.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "71be53ca",
+    "word": "varied",
+    "meaning": "多樣的、各式各樣的；變化的",
+    "example": "Our company offers a varied range of products to meet different customer needs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4291d220",
+    "word": "assortment",
+    "meaning": "各式各樣的東西；分類；混合的集合",
+    "example": "Our store offers a wide assortment of products to meet different customer needs.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "28cf984d",
+    "word": "accumulation",
+    "meaning": "累積；集合；堆積",
+    "example": "The accumulation of data over time has helped us identify market trends.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "56029118",
+    "word": "prestigious",
+    "meaning": "享有聲望的、著名的、令人尊敬的",
+    "example": "Our company was honored to receive an award from a prestigious industry organization.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "422b7c65",
+    "word": "restoration",
+    "meaning": "修復；恢復；復原",
+    "example": "The restoration of the historic building took three years and significant investment.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a73362f9",
+    "word": "residences",
+    "meaning": "住宅、居所（residence 的複數形）",
+    "example": "The company provides executive residences for senior management in major cities.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9d0eb984",
+    "word": "carry out",
+    "meaning": "執行、進行、實施（計畫、任務或研究等）",
+    "example": "We need to carry out a thorough market analysis before launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bec3a163",
+    "word": "carry off",
+    "meaning": "成功完成；贏得；帶走",
+    "example": "Despite the challenges, the team carried off the project successfully.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "104a1dce",
+    "word": "carry on",
+    "meaning": "繼續進行；維持；保持某種行為",
+    "example": "We need to carry on with the project despite the budget cuts.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "36fb6026",
+    "word": "carry over",
+    "meaning": "結轉；延續到下一期間；保留",
+    "example": "The unused budget will carry over to next fiscal year.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e26ca05d",
+    "word": "Despite",
+    "meaning": "儘管、雖然（表示對比或讓步，後接名詞或動名詞）",
+    "example": "Despite the challenging market conditions, our sales team achieved a 15% increase this quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "47505d7a",
+    "word": "(Not... alone... too/also",
+    "meaning": "不僅...也...; 不只是某人",
+    "example": "Not only our team but also the marketing department will attend the meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3254cae1",
+    "word": "be established by",
+    "meaning": "由...成立/建立/設立",
+    "example": "The company was established by the founder in 1995.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "34bceb35",
+    "word": "specialise in",
+    "meaning": "專門從事、專攻某領域",
+    "example": "Our company specialises in providing customised IT solutions for enterprise clients.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3d8c0f9c",
+    "word": "at the forefront of",
+    "meaning": "在...的最前線；領導地位",
+    "example": "Our company is at the forefront of digital transformation in the industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "17af5f1b",
+    "word": "to date",
+    "meaning": "到目前為止；迄今為止",
+    "example": "To date, we have received 50 applications for the new position.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c15b4468",
+    "word": "project portfolio",
+    "meaning": "專案組合；企業或組織同時管理的多個專案的集合",
+    "example": "Our company manages a diverse project portfolio to maximize ROI across different business units.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ce1b831f",
+    "word": "emerald",
+    "meaning": "祖母綠；翠綠色的寶石，也可指翠綠色",
+    "example": "The company's logo features an emerald green color that represents growth and sustainability.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7c853d62",
+    "word": "grotesque",
+    "meaning": "奇形怪狀的；荒誕滑稽的",
+    "example": "The company's grotesque pricing strategy alienated most of its customers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ab431e52",
+    "word": "remedy",
+    "meaning": "解決方案；藥物；補救措施",
+    "example": "The company implemented a remedy to address the quality control issues in their manufacturing process.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4d994627",
+    "word": "smeared",
+    "meaning": "塗抹、塗污；玷污名譽",
+    "example": "The report smeared the company's reputation with unsubstantiated claims.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f0fb0ba3",
+    "word": "abyss",
+    "meaning": "深淵；無底洞；深不可測的事物",
+    "example": "The company faces a financial abyss if they don't restructure their business model.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5feaa135",
+    "word": "apparently",
+    "meaning": "明顯地；似乎；表面上",
+    "example": "Apparently, the project deadline has been postponed to next month.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "964d0fd7",
+    "word": "gather",
+    "meaning": "聚集；集合；收集",
+    "example": "We need to gather all the necessary documents before submitting the proposal.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "de7280cb",
+    "word": "digests",
+    "meaning": "消化；理解吸收；文摘、摘要",
+    "example": "The system digests large volumes of data and produces monthly reports for management.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e53a7b05",
+    "word": "plot",
+    "meaning": "情節；地塊；陰謀；繪製圖表",
+    "example": "The marketing team will plot the sales data to identify trends in Q3.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "115e93ec",
+    "word": "ballpark",
+    "meaning": "棒球場；粗略估計或大概範圍",
+    "example": "The project budget is in the ballpark of $500,000.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "788335e6",
+    "word": "fleet",
+    "meaning": "船隊；一群車輛；快速的",
+    "example": "Our company operates a fleet of delivery vehicles across the country.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c4ec27f0",
+    "word": "sow",
+    "meaning": "播種；撒播種子",
+    "example": "The farmer will sow the seeds in spring to ensure a good harvest.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "77a352c1",
+    "word": "tenderness",
+    "meaning": "溫柔；柔軟；敏感；疼痛感",
+    "example": "The manager's tenderness in handling the employee's personal crisis earned great respect.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "066fbd58",
+    "word": "intimacy",
+    "meaning": "親密；密切的關係或狀態",
+    "example": "Building intimacy with clients requires consistent communication and trust over time.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "fc92e3e0",
+    "word": "neat",
+    "meaning": "整潔的；簡潔的；純粹的；優雅的",
+    "example": "Please keep your desk neat and organized so clients have a good impression when they visit.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "574e8841",
+    "word": "comb",
+    "meaning": "梳子；梳理",
+    "example": "Please comb your hair before the meeting.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "e1c8c10d",
+    "word": "dustpan",
+    "meaning": "畚箕；一種用來收集掃起來的灰塵和垃圾的平底容器",
+    "example": "Please sweep the floor and use a dustpan to collect the debris from the office.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7e654410",
+    "word": "insoles",
+    "meaning": "鞋墊；放在鞋內部的鞋底墊層",
+    "example": "Our company offers ergonomic insoles that reduce foot pain for office workers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "438680aa",
+    "word": "curtain",
+    "meaning": "窗簾；布幕；隔開或遮蔽物",
+    "example": "We need to install new curtains in the conference room to control the lighting during presentations.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "76c8ed75",
+    "word": "mildew",
+    "meaning": "黴菌；發黴",
+    "example": "The office walls developed mildew due to poor ventilation and humidity.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a71837fb",
+    "word": "raisins",
+    "meaning": "葡萄乾；曬乾的葡萄",
+    "example": "We added raisins to the breakfast cereal to make it more nutritious.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "a1b0ede9",
+    "word": "conducting",
+    "meaning": "進行、指揮、傳導",
+    "example": "The company is conducting a market survey to understand customer preferences.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "63271f34",
+    "word": "in terms of",
+    "meaning": "就...而言；以...的方式；從...的角度",
+    "example": "In terms of productivity, our team has improved by 25% this quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e324feea",
+    "word": "undertaking",
+    "meaning": "承諾；保證；企圖；工作；事業",
+    "example": "mission undertaking\n\nThe company's new product development is a major undertaking that requires significant resources and expertise.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c1055a0d",
+    "word": "access",
+    "meaning": "進入、使用或接近的機會或權利；或是取得、進入",
+    "example": "Employees need to request permission to access the confidential database.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "e1b5d00a",
+    "word": "asset",
+    "meaning": "資產；優勢；有價值的人或物",
+    "example": "Our company's biggest asset is our talented team of engineers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e5723782",
+    "word": "Assess",
+    "meaning": "評估、評價；估算",
+    "example": "We need to assess the market potential before launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "14efe3aa",
+    "word": "reckon",
+    "meaning": "認為、估計、計算",
+    "example": "I reckon we should finalize the budget proposal by the end of this week.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "18f9133b",
+    "word": "classified",
+    "meaning": "已分類的；機密的",
+    "example": "The company keeps its classified documents in a secure vault.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "45a875c0",
+    "word": "regarded",
+    "meaning": "被認為；被看待；受到尊重",
+    "example": "She is regarded as one of the most influential leaders in the industry.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3e6e93f7",
+    "word": "nationally recognised qualifications",
+    "meaning": "由國家或政府認可的資格證書或學歷",
+    "example": "Our training programme leads to nationally recognised qualifications that are valued by employers across the industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "aedf9110",
+    "word": "ambitious",
+    "meaning": "有雄心的；野心勃勃的；雄心勃勃的；艱難的",
+    "example": "She has an ambitious plan to expand the company into three new markets within two years.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "966e9d75",
+    "word": "scheme",
+    "meaning": "計劃、方案；陰謀；配色方案",
+    "example": "The company launched a new loyalty scheme to retain customers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1a4924b7",
+    "word": "partially",
+    "meaning": "部分地；在某種程度上；不完全地",
+    "example": "The project was partially completed due to budget constraints.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "334b57ea",
+    "word": "agencies",
+    "meaning": "機構；代理商；代理處",
+    "example": "Our company works with several recruitment agencies to find qualified candidates.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1d1b80f3",
+    "word": "adding",
+    "meaning": "添加；加入；補充",
+    "example": "We are adding new features to our software before the product launch.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "e513838a",
+    "word": "have access to",
+    "meaning": "能夠獲得、使用或接觸某物；可以進入",
+    "example": "Employees need to have access to the company's database to complete their tasks.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0ec9dc2e",
+    "word": "statures",
+    "meaning": "身高；身材；地位；重要性",
+    "example": "The company has grown to a stature of international significance in the industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "3985c7ad",
+    "word": "motivating",
+    "meaning": "激勵的；令人感到受到鼓舞或被驅動的",
+    "example": "The CEO gave a motivating speech to inspire the team to achieve their sales targets.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e6af62e0",
+    "word": "work towards",
+    "meaning": "朝著某個目標努力；為達成某事而持續工作",
+    "example": "Our team is working towards completing the project by the end of Q2.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6fd0faac",
+    "word": "Reveal",
+    "meaning": "揭露、透露、顯示",
+    "example": "The financial report will reveal the company's true profitability next quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b6a204cc",
+    "word": "surge ahead of",
+    "meaning": "超越、領先（競爭對手或市場）",
+    "example": "Our sales surged ahead of our competitors in the third quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "b5d1f91d",
+    "word": "reportedly",
+    "meaning": "據報導；據說（表示信息來源不確定）",
+    "example": "The company reportedly plans to expand its operations in Southeast Asia next year.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "60c1570b",
+    "word": "revealed",
+    "meaning": "揭露、透露、顯示",
+    "example": "The audit revealed several financial irregularities in the company's accounts.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0d39c048",
+    "word": "groundwork",
+    "meaning": "基礎工作；準備工作；打下的基礎",
+    "example": "The team completed all the groundwork before launching the new product line.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "87c1da04",
+    "word": "lays the groundwork",
+    "meaning": "奠定基礎；為某事做準備工作",
+    "example": "Our market research lays the groundwork for the new product launch next quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6d496c61",
+    "word": "take place",
+    "meaning": "發生、進行",
+    "example": "The annual conference will take place in Tokyo next month.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "362bddd0",
+    "word": "firms",
+    "meaning": "公司、企業（複數）；堅定、穩固（動詞第三人稱單數或形容詞）",
+    "example": "Several international firms have established offices in Taipei to expand their market presence.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "49efa7f1",
+    "word": "rival",
+    "meaning": "競爭對手；對手；相匹敵",
+    "example": "Our company's main rival has launched a new product line that we need to monitor closely.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "55d9bdb9",
+    "word": "in a row",
+    "meaning": "連續地、接連地（指事件或情況一個接著一個發生）",
+    "example": "Our company has achieved record profits for the third quarter in a row.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "745c70fc",
+    "word": "**lay the groundwork for**",
+    "meaning": "為某事打下基礎、做準備工作",
+    "example": "Our team laid the groundwork for the merger by conducting thorough market research and due diligence.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d5c18219",
+    "word": "*be vocal about",
+    "meaning": "對...直言不諱、公開表達意見",
+    "example": "",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "150b833f",
+    "word": "call on somebody to do something",
+    "meaning": "呼籲某人做某事",
+    "example": "",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e2da9ba7",
+    "word": "fall sharply",
+    "meaning": "急劇下降；大幅下滑",
+    "example": "The stock price fell sharply after the company announced disappointing earnings.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "50c9be4b",
+    "word": "eye a listing/deal",
+    "meaning": "注視；盯著看；考慮或有興趣  /盤算、籌劃上市或交易",
+    "example": "Our company is eyeing that real estate listing as a potential investment opportunity.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c49083c3",
+    "word": "set extreme expectations",
+    "meaning": "設下過高的期望",
+    "example": "\"Investors have set extreme expectations for AI companies.\"（投資者對AI公司設下了過高的期望。）",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "64e10431",
+    "word": "bumper",
+    "meaning": "保險桿；豐收的；異常好的   /常用來形容超乎預期的好成績或大規模事件。",
+    "example": "We had a bumper year in sales, with revenue exceeding all projections.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cf79ed1d",
+    "word": "address concerns",
+    "meaning": "處理/解決顧慮或問題   /商業英文中常見的表達，用來說明公司正在解決某些問題或疑慮。",
+    "example": "We need to address concerns about the project timeline before moving forward.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4e44aba8",
+    "word": "cachet",
+    "meaning": "聲望、地位；官方印章或標誌",
+    "example": "This luxury brand has a strong cachet in the international market.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "be9c8dd0",
+    "word": "condescending",
+    "meaning": "居高臨下的、傲慢的、帶有優越感的",
+    "example": "The manager's condescending tone made the team feel disrespected during the meeting.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "56512eff",
+    "word": "pedantic",
+    "meaning": "過分強調細節或形式、迂腐的；對細微的學問細節過度關注的",
+    "example": "His pedantic approach to the contract negotiations delayed the deal by focusing on minor wording issues.",
+    "cefr_level": "C1"
+  },
+  {
+    "id": "7f4459f7",
+    "word": "feistier",
+    "meaning": "更有鬥志的、更好鬥的（feisty 的比較級）",
+    "example": "Our competitor's feistier approach to marketing has helped them capture more market share.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c15a2267",
+    "word": "maniac",
+    "meaning": "瘋子；狂熱者",
+    "example": "The project manager is a deadline maniac who pushes the team to meet every milestone.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9e32271c",
+    "word": "avalanche",
+    "meaning": "雪崩；大量突然而至的事物",
+    "example": "The company faced an avalanche of customer complaints after the product recall.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6962c636",
+    "word": "apricots",
+    "meaning": "杏子、杏果（複數）",
+    "example": "We import fresh apricots from Turkey for our premium fruit selection.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7589dd1f",
+    "word": "apricots",
+    "meaning": "杏子；杏（黃澄澄的水果）",
+    "example": "We imported fresh apricots from Turkey for our dessert menu.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "b8df3e46",
+    "word": "out of the blue",
+    "meaning": "突然地；毫無預警地",
+    "example": "The client called me out of the blue to discuss a new project opportunity.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bc9c81cc",
+    "word": "smudgy",
+    "meaning": "污跡斑斑的；模糊不清的；容易留下污跡的",
+    "example": "The report was difficult to read because the printout was smudgy and unclear.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e93a28c7",
+    "word": "righteous",
+    "meaning": "正義的、道德高尚的；憤怒正當的",
+    "example": "The CEO felt righteous anger when discovering the fraud in the company's accounts.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c7aaed14",
+    "word": "recollection",
+    "meaning": "回憶；記憶；回想起的事物",
+    "example": "Based on my recollection of the meeting, we agreed to extend the project deadline by two weeks.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "59679122",
+    "word": "hung up",
+    "meaning": "掛斷電話；被延遲或停止；對某事有心理障礙",
+    "example": "I accidentally hung up on the client during our conference call.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "77cab0e5",
+    "word": "parrot",
+    "meaning": "鸚鵡；模仿他人言行的人",
+    "example": "The sales team tends to parrot the competitor's marketing strategies without innovation.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "a1b0f2a2",
+    "word": "impulse",
+    "meaning": "衝動；推動力；脈衝",
+    "example": "The marketing team made an impulse decision to launch the campaign without thorough market research.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f2d40048",
+    "word": "vaguely",
+    "meaning": "模糊地、隱約地、不明確地",
+    "example": "The client vaguely mentioned the budget constraints in our meeting yesterday.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a05c6aa0",
+    "word": "solid",
+    "meaning": "固體的；堅實的；牢固的；可靠的",
+    "example": "We need to establish a solid foundation for this business partnership.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "51bf6a51",
+    "word": "Frontier",
+    "meaning": "邊界、邊境；新領域的邊界",
+    "example": "The company is pushing the frontier of artificial intelligence in customer service.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6c8e2f3b",
+    "word": "rabies",
+    "meaning": "狂犬病；一種由病毒引起的致命傳染病",
+    "example": "The company implemented strict rabies prevention protocols after an employee was bitten by a stray dog at the warehouse.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "429a88d0",
+    "word": "leftovers",
+    "meaning": "剩餘的食物；剩菜",
+    "example": "We have plenty of leftovers from yesterday's dinner party that we can reheat for lunch.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "34e450cc",
+    "word": "bruises",
+    "meaning": "瘀傷；擦傷（複數或第三人稱單數）",
+    "example": "The accident left several bruises on his arms, and he bruises easily due to his medical condition.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7a0c8bfa",
+    "word": "guacamole",
+    "meaning": "牛油果醬（用酪梨製成的墨西哥醬料）",
+    "example": "We ordered the guacamole and chips as an appetizer for our business lunch.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cce9ee91",
+    "word": "ditch",
+    "meaning": "溝渠、水溝；拋棄、放棄",
+    "example": "The company decided to ditch the unprofitable project and focus on new initiatives.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "414deb90",
+    "word": "blacksmith",
+    "meaning": "鐵匠；製作或修理鐵製品的工匠",
+    "example": "The blacksmith repaired the company's metal gates and hinges.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "12e7fe75",
+    "word": "sidestepped",
+    "meaning": "閃避；迴避；側步行走",
+    "example": "The CEO sidestepped the journalist's question about the company's financial losses.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d5ac05b7",
+    "word": "vernacular",
+    "meaning": "日常用語；地方方言；本地的；通俗的",
+    "example": "The marketing team decided to use vernacular language in their advertising campaign to connect better with local customers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "05ccb69b",
+    "word": "demoralising",
+    "meaning": "令人沮喪的；打擊士氣的",
+    "example": "The constant project delays have a demoralising effect on the team's productivity.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "199eb752",
+    "word": "notoriously",
+    "meaning": "以臭名昭著/惡名昭彰的方式；眾所周知地（用於負面事物）",
+    "example": "The company is notoriously difficult to work with, which has affected its reputation in the industry.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "cc2ee386",
+    "word": "represented",
+    "meaning": "代表、代理、表示、陳述",
+    "example": "Our company was represented by the CEO at the international trade conference.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cd4fbf97",
+    "word": "hassle",
+    "meaning": "麻煩事、困擾；為難、騷擾",
+    "example": "I don't want to hassle you, but could you review this report by tomorrow?",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ff4430f7",
+    "word": "decline",
+    "meaning": "下降、減少；婉拒、謝絕",
+    "example": "Sales declined by 15% this quarter, so we had to decline the expansion plan.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "756e9293",
+    "word": "overstimulating",
+    "meaning": "過度刺激的；令人感到過度興奮或疲勞的",
+    "example": "The bright lights and loud music created an overstimulating environment for the participants during the product launch event.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "680a9b6c",
+    "word": "bargains",
+    "meaning": "便宜貨；廉價商品；討價還價",
+    "example": "We found some great bargains at the clearance sale last week.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2e994f8c",
+    "word": "occasions",
+    "meaning": "場合；時機；原因；引起",
+    "example": "We have hosted several successful business occasions this year that strengthened our client relationships.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1f14246d",
+    "word": "occasions",
+    "meaning": "場合、機會；引起、造成",
+    "example": "We have celebrated many successful project completions on various occasions throughout the year.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "04cac809",
+    "word": "queue",
+    "meaning": "隊伍；排隊",
+    "example": "Please queue at the service desk to submit your application form.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "9ab41977",
+    "word": "collapsed",
+    "meaning": "倒塌的；崩潰的；縮小的",
+    "example": "The company's collapsed business model forced them to restructure their entire operation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ef2b5a03",
+    "word": "evidently",
+    "meaning": "顯然地；明顯地；據說",
+    "example": "The project evidently requires more resources than we initially budgeted.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a23050ec",
+    "word": "recognised",
+    "meaning": "認可、承認、辨認（英式拼法）",
+    "example": "The company is recognised as a leader in sustainable innovation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8a78dd8e",
+    "word": "hold out",
+    "meaning": "堅持；提供；抗拒；維持",
+    "example": "The company decided to hold out for better contract terms before signing the agreement.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2fc88a83",
+    "word": "ethically",
+    "meaning": "以符合倫理道德的方式；在道德層面上",
+    "example": "We must ensure that all business decisions are made ethically and in compliance with regulations.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6dda3a95",
+    "word": "taxing",
+    "meaning": "令人疲憊的；艱難的；課稅的",
+    "example": "Managing multiple projects simultaneously is a taxing responsibility that requires excellent time management skills.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2f97edac",
+    "word": "demanding",
+    "meaning": "要求高的、苛刻的、費力的",
+    "example": "This project is very demanding in terms of attention to detail and deadline management.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "43e4e67e",
+    "word": "outweighs",
+    "meaning": "比...更重要；超過；勝過",
+    "example": "The benefits of this new software outweigh the implementation costs.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "18964433",
+    "word": "domestic",
+    "meaning": "國內的；家庭的；馴養的",
+    "example": "The company is focusing on expanding its domestic market before entering international markets.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "49c6a3ac",
+    "word": "expansion",
+    "meaning": "擴張、擴展、膨脹",
+    "example": "The company plans to invest in market expansion across Southeast Asia.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3059030f",
+    "word": "collapsing",
+    "meaning": "倒塌；崩潰；縮小；收起",
+    "example": "The company is collapsing due to poor financial management and market competition.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7d450086",
+    "word": "stagnating",
+    "meaning": "停滯、衰退、不流動（進行中）",
+    "example": "The company's sales have been stagnating for the past two quarters, prompting management to develop new strategies.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e85a13b7",
+    "word": "worsen",
+    "meaning": "使惡化、變差",
+    "example": "The economic situation has worsened due to rising inflation, which may worsen our quarterly earnings.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1a23c11e",
+    "word": "tensions",
+    "meaning": "緊張局勢；張力；拉力",
+    "example": "The recent trade disputes have increased tensions between the two countries, affecting our international partnerships.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ff2e57ae",
+    "word": "outlook",
+    "meaning": "前景、展望；觀點、看法；景色、景觀",
+    "example": "The outlook for our company's growth next quarter is very positive.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7c16fa7c",
+    "word": "clouding",
+    "meaning": "變得陰沉；使變模糊或混濁；（判斷力）被遮蔽",
+    "example": "The judgment of the negotiation team was clouding due to personal emotions.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c7b8c28b",
+    "word": "offset",
+    "meaning": "抵銷、彌補、抵消（某種負面影響）",
+    "example": "常用搭配：offset A with B（用 B 來抵銷 A）、help offset（幫助抵銷）、offset the decline/losses/impact of...\n\n例句1：The company used higher prices to offset rising production costs.\n（該公司利用提高價格來抵銷上升的生產成本。）",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "379e7d9d",
+    "word": "sustained",
+    "meaning": "持續的、持久的；維持的",
+    "example": "The company achieved sustained growth over the past five years.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "31ce467e",
+    "word": "steady",
+    "meaning": "穩定的、穩固的；使穩定",
+    "example": "We need to maintain a steady growth rate to achieve our annual targets.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "b57edbac",
+    "word": "momentum",
+    "meaning": "動力；勢頭；物體運動的力量",
+    "example": "The company has built strong momentum in the market after launching its new product line.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a32c7bf1",
+    "word": "out of reach",
+    "meaning": "無法夠到的；難以達成的；超出能力範圍的",
+    "example": "The price of that luxury car is out of reach for most employees in our company.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f360b42f",
+    "word": "off course",
+    "meaning": "當然；顯然；自然而然",
+    "example": "Of course, we'll need to review the contract before signing it.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "8c1b3180",
+    "word": "shake off",
+    "meaning": "擺脫、甩掉（某人或某事）",
+    "example": "We need to shake off this negative perception and rebuild our brand reputation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7b17cf57",
+    "word": "slump",
+    "meaning": "下降、暴跌；衰退；萎靡不振",
+    "example": "The company's sales slumped by 30% this quarter due to market competition.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6af258a8",
+    "word": "ease",
+    "meaning": "輕鬆；容易；減輕；緩解",
+    "example": "The new software will ease the burden on our accounting team.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "bd4e0f71",
+    "word": "sluggish",
+    "meaning": "反應遲鈍的；行動緩慢的；不景氣的",
+    "example": "The market has been sluggish due to economic uncertainty, so we need to adjust our sales strategy.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1467ad58",
+    "word": "domestic",
+    "meaning": "國內的；家庭的；馴養的",
+    "example": "The company focuses on expanding its domestic market before entering international markets.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d1585134",
+    "word": "consumption",
+    "meaning": "消費；消耗；（尤指煤、電、食物等的）使用量",
+    "example": "The company needs to reduce energy consumption to lower operational costs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "95b50dfe",
+    "word": "stripped",
+    "meaning": "剝去、脫掉；去除；被剝奪的",
+    "example": "The company stripped away unnecessary costs to improve profitability.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f62d1ed7",
+    "word": "threshold",
+    "meaning": "門檻、臨界點、開始點",
+    "example": "The company has set a high threshold for customer satisfaction before launching the new product.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e05c9e4d",
+    "word": "motto",
+    "meaning": "座右銘；格言；標語",
+    "example": "Our company's motto is 'innovation and excellence in every product.'",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8f032f22",
+    "word": "decent",
+    "meaning": "適當的、體面的、不錯的",
+    "example": "We received a decent salary increase after the successful project completion.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c101a3be",
+    "word": "costumes",
+    "meaning": "服裝；戲服；傳統服飾",
+    "example": "The employees wore costumes for the company's annual Halloween party.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "80ae757a",
+    "word": "genetically",
+    "meaning": "在遺傳學上；從基因角度",
+    "example": "The product is genetically modified to resist pests and diseases.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "65a443f0",
+    "word": "cushion",
+    "meaning": "墊子、靠墊；緩衝作用",
+    "example": "The company's savings cushioned the impact of the economic downturn.\n\ncushion the impact / cushion the blow",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "9eebac5c",
+    "word": "intensify",
+    "meaning": "加強、增強、使更劇烈",
+    "example": "The company decided to intensify its marketing efforts to compete with rivals.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "47387328",
+    "word": "provoke",
+    "meaning": "激怒、挑釁、引起",
+    "example": "The manager's unfair decision provoked strong reactions from the team members.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3504b151",
+    "word": "interruptions",
+    "meaning": "打斷、中斷、插話（複數形）",
+    "example": "The meeting had too many interruptions, which made it difficult to stay focused on the agenda.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "68a46513",
+    "word": "allotted",
+    "meaning": "分配、撥付、規定（時間、資源等）",
+    "example": "Each team was allotted a budget of $50,000 for the project.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "6dde0311",
+    "word": "alternatives",
+    "meaning": "替代方案；選擇",
+    "example": "We are exploring several alternatives to reduce our operational costs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "0f8a3d31",
+    "word": "furniture",
+    "meaning": "家具；傢俱",
+    "example": "We need to purchase new office furniture for the conference room.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "2cf52181",
+    "word": "diplomatic",
+    "meaning": "外交的；善於處理人際關係的；策略性的",
+    "example": "We need to take a diplomatic approach when negotiating with international partners.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "981088de",
+    "word": "suppress",
+    "meaning": "壓制、抑制、隱瞞",
+    "example": "The company tried to suppress negative feedback about their product before the launch.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "93bdf927",
+    "word": "immune",
+    "meaning": "免疫的；不受影響的；豁免的",
+    "example": "Our company's strong financial position makes it immune to market fluctuations.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6ff3c0d2",
+    "word": "chronic",
+    "meaning": "長期的；慢性的；習慣性的",
+    "example": "The company has been struggling with chronic supply chain issues for several years.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "331c49d3",
+    "word": "harmful",
+    "meaning": "有害的、造成傷害的",
+    "example": "The new policy could have harmful effects on employee morale.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f13151bf",
+    "word": "inflammation",
+    "meaning": "發炎；炎症",
+    "example": "The doctor prescribed antibiotics to treat the inflammation in the patient's throat.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "9ae74161",
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "The company implemented a wellness program to help employees manage diabetes and other chronic diseases.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8350c894",
+    "word": "conflict",
+    "meaning": "衝突、爭執；與...不符",
+    "example": "The project timeline conflicts with our resource availability, creating a management challenge.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b2e7b7a4",
+    "word": "vulnerable",
+    "meaning": "容易受傷害的；脆弱的；易受攻擊的",
+    "example": "The company's vulnerable supply chain was disrupted by the pandemic.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1cf5cd40",
+    "word": "adequate",
+    "meaning": "足夠的；充分的；恰當的",
+    "example": "Our current budget is adequate to cover the project expenses.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7bac4aa7",
+    "word": "infer",
+    "meaning": "推斷、推論；從某事物中引出結論",
+    "example": "Based on the quarterly reports, we can infer that the company's profitability will improve next year.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "34b73dc7",
+    "word": "beneath",
+    "meaning": "在...下面；低於",
+    "example": "The documents were filed beneath the desk in the office.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "c9508daa",
+    "word": "testament",
+    "meaning": "遺囑；証明、証據",
+    "example": "The company's success is a testament to the CEO's innovative leadership.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "75bdbd97",
+    "word": "commencement address",
+    "meaning": "畢業典禮致詞；通常由傑出人士在大學或高中畢業典禮上發表的演講",
+    "example": "The CEO delivered the commencement address at the university graduation ceremony, inspiring the graduates to pursue their careers with innovation and integrity.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "3d823cca",
+    "word": "Bishop",
+    "meaning": "主教；（國際象棋中的）象",
+    "example": "The bishop announced the new church policy at the conference.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "eb740fe8",
+    "word": "flan",
+    "meaning": "一種甜點，通常是在烤過的塔皮或焦糖基底上放上蛋奶餡料",
+    "example": "We ordered a delicious caramel flan for dessert after the business dinner.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "32f23deb",
+    "word": "custard",
+    "meaning": "蛋奶油；奶油餡",
+    "example": "The dessert is topped with a rich vanilla custard sauce.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1cfe1adf",
+    "word": "gathering",
+    "meaning": "聚集；集會；收集；聚合",
+    "example": "We will hold a gathering of stakeholders next month to discuss the new strategy.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7c6e3e04",
+    "word": "occupied",
+    "meaning": "被佔據的；忙碌的；有人住的",
+    "example": "The conference room is occupied right now, so we'll need to find another space for our meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "81c3e118",
+    "word": "coaster",
+    "meaning": "杯墊；雲霄飛車；海岸船",
+    "example": "Please put your coffee cup on a coaster to protect the table surface.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ea602307",
+    "word": "chimney",
+    "meaning": "煙囪，煙管",
+    "example": "The factory's chimneys released smoke into the air, prompting environmental compliance checks.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "15187a84",
+    "word": "moistening",
+    "meaning": "使潮濕；使變得濕潤",
+    "example": "We are moistening the soil before planting the seeds.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8391faeb",
+    "word": "regimented",
+    "meaning": "有紀律的、受到嚴格控制的、組織化的",
+    "example": "The company has a regimented approach to project management, with strict timelines and detailed procedures.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "b1a5e063",
+    "word": "occurred",
+    "meaning": "發生、出現",
+    "example": "The system error occurred during the financial quarter closing process.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "65f1b0c9",
+    "word": "hold you over",
+    "meaning": "暫時幫助你度過困難時期或滿足需求",
+    "example": "This advance payment should hold you over until the project is completed and you receive your full compensation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "fba4c765",
+    "word": "elaborate",
+    "meaning": "詳細說明；精心製作；複雜的",
+    "example": "The manager asked the team to elaborate on the project proposal during the meeting.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "dfb5c9aa",
+    "word": "squeaky",
+    "meaning": "發出高聲尖叫或吱吱聲的；容易發聲的",
+    "example": "We need to oil that squeaky door hinge before the client meeting.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1992f9b7",
+    "word": "possum",
+    "meaning": "負鼠（一種有袋動物，原產於澳洲和美洲）",
+    "example": "The company decided to play possum and not respond to the competitor's aggressive marketing campaign.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "efc2d420",
+    "word": "cereal",
+    "meaning": "穀類食品；由穀物製成的早餐食品",
+    "example": "Our company launched a new line of high-protein cereal to target health-conscious consumers.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "06b583ff",
+    "word": "costume",
+    "meaning": "服裝、戲服；（特定場合或角色的）穿著",
+    "example": "The actors wore elaborate costumes for the corporate gala performance.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "f0ffde9c",
+    "word": "vibrate",
+    "meaning": "振動；顫動",
+    "example": "The machine will vibrate if it's not properly balanced.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "652e3701",
+    "word": "rescue",
+    "meaning": "救援、拯救",
+    "example": "The team was sent to rescue the trapped workers from the collapsed building.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "ece49c99",
+    "word": "way out of a limb",
+    "meaning": "處於危險或孤立的境地；冒著風險說出或做出可能遭反對的事",
+    "example": "The manager went out on a limb by proposing this unconventional business strategy to the board.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4f656780",
+    "word": "intimate",
+    "meaning": "親密的；親近的；或作動詞表示暗示、透露",
+    "example": "We have an intimate understanding of our client's business needs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a81e5660",
+    "word": "bonding",
+    "meaning": "建立關係、連結；黏合；擔保",
+    "example": "Team bonding activities help employees build stronger relationships and improve workplace collaboration.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2d6fa6c9",
+    "word": "wagering",
+    "meaning": "下賭注、打賭",
+    "example": "The company is wagering on the success of its new product launch in the Asian market.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "8195db7d",
+    "word": "permitted",
+    "meaning": "被允許的；獲得許可的",
+    "example": "Smoking is not permitted in the office building.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b635bd60",
+    "word": "trickling",
+    "meaning": "緩慢滴流；逐漸減少",
+    "example": "Revenue has been trickling in from our new product line.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cb7326ab",
+    "word": "fountains",
+    "meaning": "噴泉；泉源",
+    "example": "The company's fountains in the lobby create a welcoming atmosphere for clients.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "db574a2f",
+    "word": "Stamina",
+    "meaning": "耐力；持久力；體力",
+    "example": "Our team's stamina was tested during the long negotiation that lasted 8 hours.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9516c2a7",
+    "word": "Girth",
+    "meaning": "周長；腰圍；馬鞍帶",
+    "example": "The project's girth expanded significantly after we added three new departments.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "5373fb07",
+    "word": "supposedly",
+    "meaning": "據說；想必；假定上",
+    "example": "The project is supposedly going to be completed by the end of this quarter, but I have my doubts.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2f887e94",
+    "word": "determine",
+    "meaning": "決定；確定；決心；影響",
+    "example": "We need to determine the best strategy before launching the project.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c967d335",
+    "word": "enormous",
+    "meaning": "巨大的、龐大的",
+    "example": "Our company faced enormous challenges during the market downturn.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4fe4fd85",
+    "word": "sanitation",
+    "meaning": "衛生設施；公共衛生",
+    "example": "The company invested in improving sanitation facilities at the factory to meet health and safety standards.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "3297680d",
+    "word": "compensated",
+    "meaning": "補償；賠償；抵銷",
+    "example": "The company compensated employees for their overtime work.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "81b4b3d4",
+    "word": "by contrast",
+    "meaning": "相比之下；相較之下；形成對比",
+    "example": "Our Q3 sales increased by 15%, but by contrast, Q4 showed only 3% growth.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "90ed085b",
+    "word": "undervalue",
+    "meaning": "低估；不充分評估某物或某人的價值",
+    "example": "The company undervalued the potential market demand for the new product, resulting in insufficient production capacity.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "85c8c801",
+    "word": "overestimate",
+    "meaning": "高估；過度評估",
+    "example": "We should not overestimate the market demand for this new product.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d0e3e5fc",
+    "word": "reimburse",
+    "meaning": "償還；賠償（某人已支出的費用）",
+    "example": "The company will reimburse employees for all approved business travel expenses.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "be9d2411",
+    "word": "little leverage",
+    "meaning": "槓桿作用；影響力；杠杆比率 缺乏談判籌碼／影響力",
+    "example": "The company used its brand reputation as leverage to negotiate better terms with suppliers.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c4c804ad",
+    "word": "liability",
+    "meaning": "責任；債務；不利因素",
+    "example": "The company acknowledged its liability for the product defect and agreed to compensate affected customers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6dcd48d4",
+    "word": "incentive",
+    "meaning": "激勵；誘因；報酬",
+    "example": "The company offered a performance bonus as an incentive to increase sales.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "030dc31a",
+    "word": "surplus",
+    "meaning": "剩餘的、過剩的；剩餘物、盈餘",
+    "example": "The company reported a budget surplus of $2 million this quarter.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ce1ca041",
+    "word": "compensated",
+    "meaning": "補償；賠償；抵銷  poorly compensated 表示「薪酬過低」",
+    "example": "The company compensated employees for their overtime work.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2deaf35b",
+    "word": "continent",
+    "meaning": "大陸；自制力強的",
+    "example": "Our company has expanded operations across three continents in the past decade.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "97e43ce8",
+    "word": "Ponds",
+    "meaning": "池塘（複數）",
+    "example": "Our company is planning to build decorative ponds in the office courtyard to improve the work environment.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "7d733898",
+    "word": "hummed",
+    "meaning": "發出嗯嗯聲；哼唱",
+    "example": "The employee hummed a tune while working on the project.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "669a2b80",
+    "word": "croaking",
+    "meaning": "發出沙啞聲音；呱呱叫；（俚語）死亡",
+    "example": "The old speaker's croaking voice made it difficult for the audience to understand the presentation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "26534365",
+    "word": "creatures",
+    "meaning": "生物；動物；生命體",
+    "example": "The company treats its employees like valued creatures deserving respect and fair treatment.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "f1d9b87a",
+    "word": "reveals",
+    "meaning": "揭露、透露、展現",
+    "example": "The quarterly report reveals significant growth in our sales performance.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3f8c7a0b",
+    "word": "reshapes",
+    "meaning": "重新塑造、改變形狀或結構",
+    "example": "The new management strategy reshapes our company's organizational structure.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "3f1611ad",
+    "word": "absorbs",
+    "meaning": "吸收；吸納；使全神貫注",
+    "example": "The company absorbs the costs of training new employees.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c77f245a",
+    "word": "moisture",
+    "meaning": "濕氣、水分",
+    "example": "The air conditioning system helps reduce moisture in the office during humid summers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f1c28add",
+    "word": "chemical composition",
+    "meaning": "化學成分；物質由各種元素或化合物組成的比例和種類",
+    "example": "The chemical composition of this material needs to be analyzed before we can proceed with the product development.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "569a6479",
+    "word": "composition",
+    "meaning": "組成、成分；文章、作文；音樂作品",
+    "example": "The composition of our product team includes experts from various departments.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "19165a47",
+    "word": "among",
+    "meaning": "在...之中；在...之間",
+    "example": "We discussed the budget allocation among the different departments.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "3202ca21",
+    "word": "indicators",
+    "meaning": "指標；指示器；信號燈",
+    "example": "The company monitors key performance indicators to track business progress.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9b731c3e",
+    "word": "In this sense",
+    "meaning": "從這個意義上來說，",
+    "example": "",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "02aba8fe",
+    "word": "wider",
+    "meaning": "更寬的；範圍更廣的",
+    "example": "We need a wider range of products to meet customer demands.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "470ecfb5",
+    "word": "devastating",
+    "meaning": "毀滅性的；令人震驚的；極具破壞力的",
+    "example": "The company suffered a devastating loss in market share after the product recall.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1bc0219d",
+    "word": "infection",
+    "meaning": "感染；傳染病；感染的部位或狀態",
+    "example": "The patient developed a bacterial infection after the surgery, requiring immediate antibiotic treatment.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c9635e10",
+    "word": "Habitat",
+    "meaning": "棲息地、生活環境",
+    "example": "The company is committed to protecting the natural habitat of endangered species in its project areas.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "76031c97",
+    "word": "destruction",
+    "meaning": "破壞、毀滅；摧毀的行為或結果",
+    "example": "The natural disaster caused widespread destruction to the infrastructure.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "153d69ae",
+    "word": "urban",
+    "meaning": "與城市有關的；城市的",
+    "example": "The company is focusing on expanding its urban market presence in major cities.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "a9e1b0d6",
+    "word": "breeding",
+    "meaning": "飼養、繁殖；教養、修養",
+    "example": "The company specializes in cattle breeding and has implemented strict quality control standards.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3c8a8842",
+    "word": "layer",
+    "meaning": "層；層次；下蛋的母雞",
+    "example": "We need to add another layer of protection to our security system.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "d8931a8c",
+    "word": "alter",
+    "meaning": "改變、修改",
+    "example": "We need to alter the contract terms before signing it.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "41f5cd10",
+    "word": "regulate",
+    "meaning": "調節、規範、管制",
+    "example": "The government regulates the financial industry to protect consumers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "41a785bd",
+    "word": "occupy",
+    "meaning": "佔據、佔用；從事、從事於",
+    "example": "The new office will occupy the entire third floor of the building.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "81e3ec36",
+    "word": "restoring",
+    "meaning": "恢復、復原、修復",
+    "example": "The company is restoring its reputation after the scandal by implementing new ethical guidelines.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "26fb51d1",
+    "word": "regardless of",
+    "meaning": "不管；無論；不論",
+    "example": "The company will proceed with the project regardless of market conditions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a4e1abb4",
+    "word": "compounds",
+    "meaning": "化合物；混合物；複合的；由多個部分組成的",
+    "example": "The laboratory tested several chemical compounds to determine their properties.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "47272ec7",
+    "word": "compete",
+    "meaning": "競爭、比賽",
+    "example": "Our company competes with several international firms in the technology sector.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "eeb78635",
+    "word": "resignation",
+    "meaning": "辭職；認命；順服",
+    "example": "Her resignation from the company surprised everyone in the department.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3b45b6de",
+    "word": "gradual",
+    "meaning": "逐漸的、緩慢進行的",
+    "example": "The company implemented a gradual transition to remote work over three months.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cf72be95",
+    "word": "disengagement",
+    "meaning": "脫離、退出、不參與的狀態或行為",
+    "example": "The company's disengagement from the Asian market was a strategic decision to focus on Europe.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "55b8958f",
+    "word": "cited",
+    "meaning": "被引用、被提及；被傳喚出庭",
+    "example": "The research paper cited three previous studies to support their findings.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "60a90334",
+    "word": "unacknowledged",
+    "meaning": "未被承認的；未被確認的；沒有表達感謝的",
+    "example": "The company's unacknowledged mistakes led to customer dissatisfaction.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e3847138",
+    "word": "resentment",
+    "meaning": "怨恨、不滿",
+    "example": "The employee's resentment toward the unfair promotion decision became evident in the meeting.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "70ef634a",
+    "word": "capable",
+    "meaning": "有能力的、勝任的",
+    "example": "Our team is capable of delivering the project on time and within budget.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bfa079f1",
+    "word": "oversight",
+    "meaning": "監督；疏忽",
+    "example": "The project manager's oversight ensured that all deadlines were met.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "bb793911",
+    "word": "implicit",
+    "meaning": "暗示的、內在的、隱含的；絕對的、無保留的",
+    "example": "The contract contains an implicit agreement that both parties will act in good faith.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "05874552",
+    "word": "excessive",
+    "meaning": "過度的、過量的、超過必要的",
+    "example": "The company was penalized for excessive overtime demands on its employees.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "cb367372",
+    "word": "constrained",
+    "meaning": "受限的；被迫的；拘束的",
+    "example": "We are operating under constrained budget this quarter, so we need to prioritize our spending carefully.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "051dcb35",
+    "word": "empowered",
+    "meaning": "被授予權力或能力的；感到自信和有能力的",
+    "example": "Our team members feel empowered to make decisions without waiting for management approval.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f97222bd",
+    "word": "striking",
+    "meaning": "引人注目的、顯著的；罷工的",
+    "example": "The striking difference between the two proposals made the decision easier for the board.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "941589d6",
+    "word": "retain control",
+    "meaning": "保有控制權、掌控權",
+    "example": "",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "4143cfaf",
+    "word": "delegate",
+    "meaning": "委派；授權；代表；代表團成員",
+    "example": "The manager decided to delegate the project to her senior team members.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9f48fe27",
+    "word": "forfeit",
+    "meaning": "喪失；被迫放棄（權利、財產等）",
+    "example": "If you miss the deadline, you will forfeit your claim to the bonus.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "c8ffcece",
+    "word": "underestimated",
+    "meaning": "低估的；被估計不足的",
+    "example": "The potential risks of the project were underestimated in the initial proposal.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "541378d9",
+    "word": "stagnation",
+    "meaning": "停滯；缺乏成長或進展的狀態",
+    "example": "The company is experiencing economic stagnation, with no new product launches this year.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "9b36a012",
+    "word": "Ambitious",
+    "meaning": "有雄心的；野心勃勃的；雄心勃勃的；艱難的",
+    "example": "She has an ambitious plan to expand the company into three new markets within two years.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "81ac744d",
+    "word": "trajectory",
+    "meaning": "軌跡；發展路徑；物體運動的路線",
+    "example": "The company's trajectory has been impressive, with revenues growing 30% year-over-year.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "f6de69ef",
+    "word": "itinerary",
+    "meaning": "行程；旅遊路線；旅程表",
+    "example": "The project manager outlined the itinerary for the client site visit next month.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7d4f9d78",
+    "word": "inventory",
+    "meaning": "庫存；存貨清單；盤點",
+    "example": "We need to conduct an inventory check to see how much stock we have left in the warehouse.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "dfc40585",
+    "word": "subsidy",
+    "meaning": "政府或機構提供的財務支持或補助",
+    "example": "The government provides subsidies to farmers to support agricultural production.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "087dd499",
+    "word": "halt",
+    "meaning": "停止；暫停；停頓",
+    "example": "The production line came to a halt due to equipment failure.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "8a7f8559",
+    "word": "entirely",
+    "meaning": "完全地、彻底地",
+    "example": "The project timeline has changed entirely due to the new client requirements.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "31f9bb7a",
+    "word": "adequately",
+    "meaning": "充分地、足夠地",
+    "example": "The company has not adequately prepared for the market changes.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d403cfc0",
+    "word": "eroded",
+    "meaning": "被侵蝕的；逐漸減少或消失的",
+    "example": "The company's market share has been eroded by intense competition.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "ae75fcac",
+    "word": "implications",
+    "meaning": "暗示；隱含意義；牽連；可能的結果或影響",
+    "example": "We need to discuss the implications of this policy change on our budget.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "e3d3a31c",
+    "word": "genuine",
+    "meaning": "真正的、真實的、不虛假的",
+    "example": "We need genuine feedback from our clients to improve our products.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3d453267",
+    "word": "autonomy",
+    "meaning": "自主權；自治權；獨立自主的能力",
+    "example": "The company granted each department autonomy in budget allocation decisions.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "604b7b4b",
+    "word": "phony",
+    "meaning": "假的、虛假的、冒充的",
+    "example": "The company's sustainability claims turned out to be phony, damaging their reputation.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d4b713a7",
+    "word": "morale",
+    "meaning": "士氣、情緒、精神狀態",
+    "example": "The team's morale improved significantly after winning the project.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "807ef8bc",
+    "word": "ruffle",
+    "meaning": "使皺摺；使不安；打亂；褶邊飾物",
+    "example": "The unexpected budget cuts ruffled the team's confidence in the project.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e99d51f0",
+    "word": "oven",
+    "meaning": "烤箱、烤爐",
+    "example": "Please preheat the oven to 350 degrees before baking the pastries.",
+    "cefr_level": "A1"
+  },
+  {
+    "id": "382c830d",
+    "word": "mitts",
+    "meaning": "手套（尤指棒球手套或連指手套）；非正式用法指手或拳頭",
+    "example": "The baseball player put on his mitts before stepping up to the plate.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "256f8725",
+    "word": "strict",
+    "meaning": "嚴格的；嚴厲的；確切的",
+    "example": "Our company has strict policies regarding data security and employee conduct.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "f873ce7b",
+    "word": "slightly",
+    "meaning": "輕微地、略微地；有點",
+    "example": "The project timeline was slightly delayed due to unexpected supply chain issues.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "18d0ffb7",
+    "word": "come off",
+    "meaning": "成功；進行得很好；看起來；脫落",
+    "example": "The presentation came off very well, and we impressed all the clients.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "11a86e70",
+    "word": "suspicion",
+    "meaning": "懷疑；疑心；一點點",
+    "example": "The audit raised suspicions about the company's financial records.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "78ee6124",
+    "word": "drop the ball",
+    "meaning": "失職、沒有善盡責任、讓人失望",
+    "example": "Our project manager dropped the ball on the deadline, and the client was very upset.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "2c970d0b",
+    "word": "fictional",
+    "meaning": "虛構的；小說的；非真實的",
+    "example": "The company created a fictional character to represent their brand in marketing campaigns.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e9584e98",
+    "word": "tensed up",
+    "meaning": "變得緊張或僵硬；肌肉或情緒處於緊張狀態",
+    "example": "The team tensed up during the final presentation to the board, and their nervousness was obvious.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "810d5325",
+    "word": "atmosphere",
+    "meaning": "氣氛；大氣層",
+    "example": "The company has created a positive atmosphere in the office to boost employee morale.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "75f4ae7a",
+    "word": "drift off",
+    "meaning": "漸漸入睡；慢慢睡著",
+    "example": "During the long meeting, I started to drift off until my colleague nudged me.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "2ff38a35",
+    "word": "restraining",
+    "meaning": "限制的、約束的；防止的",
+    "example": "The court issued a restraining order to prevent the defendant from contacting the witness.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "78ba4986",
+    "word": "accurate",
+    "meaning": "準確的、精確的、正確的",
+    "example": "We need accurate data to make informed business decisions.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cca0630c",
+    "word": "gradually",
+    "meaning": "逐漸地、慢慢地",
+    "example": "Our market share has gradually increased over the past three years.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "7b25f094",
+    "word": "certain",
+    "meaning": "確定的、肯定的；某個（但不具體說明是哪個）",
+    "example": "We are certain that the project will be completed by the end of this quarter.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "8ffbd995",
+    "word": "absorb",
+    "meaning": "吸收；吸入；融合；理解",
+    "example": "The company will absorb the cost of shipping to maintain customer satisfaction.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cac876ad",
+    "word": "flaws",
+    "meaning": "缺陷、瑕疵、缺點（通常指結構或品質上的問題）",
+    "example": "The quality control team identified several flaws in the product design before it went to production.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "43469eca",
+    "word": "ordinary",
+    "meaning": "普通的、平常的、非特殊的",
+    "example": "This is an ordinary business meeting with nothing out of the ordinary discussed.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "522b3138",
+    "word": "alternative",
+    "meaning": "替代的；另一種選擇",
+    "example": "We need to find an alternative solution to reduce production costs.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "cbde82bf",
+    "word": "elaborate",
+    "meaning": "詳細說明；精心製作的；詳盡的",
+    "example": "Could you elaborate on your proposal during the meeting?",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "0e2462d0",
+    "word": "ritual",
+    "meaning": "儀式、典禮或按照固定方式重複進行的行為",
+    "example": "Our company has a morning ritual of team standup meetings to discuss daily priorities.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "75fe8ff3",
+    "word": "implies",
+    "meaning": "暗示；意味著；涉及",
+    "example": "The report implies that there are significant risks in the current business strategy.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "567b2551",
+    "word": "infer",
+    "meaning": "推斷、推論；從某事物中引出結論",
+    "example": "Based on the quarterly reports, we can infer that the company's profitability will improve next year.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "94817fcc",
+    "word": "consumes",
+    "meaning": "消費；消耗；吞沒；佔據",
+    "example": "The project consumes a significant portion of our annual budget.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "daaf56fb",
+    "word": "collective",
+    "meaning": "集體的；集合的；多人共同的",
+    "example": "Our collective effort resulted in a successful product launch.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "517a8c59",
+    "word": "nuance",
+    "meaning": "細微的差別或差異；微妙之處",
+    "example": "The contract's legal nuances require careful review before signing.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "cedee623",
+    "word": "presence",
+    "meaning": "出現、存在；現場；氣質、儀態",
+    "example": "Your presence at the meeting is required to discuss the quarterly results.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "5ae71827",
+    "word": "set aside",
+    "meaning": "預留；撥出；保留",
+    "example": "We need to set aside a budget for the new project before the fiscal year ends.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "aa750188",
+    "word": "Afterwards",
+    "meaning": "之後、隨後",
+    "example": "We had a meeting in the morning, and afterwards we discussed the results with the team.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "e4fb831d",
+    "word": "accurately",
+    "meaning": "精確地；準確地；正確地",
+    "example": "The sales report accurately reflects our quarterly performance.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1ccaa6fe",
+    "word": "tendency",
+    "meaning": "傾向、趨勢",
+    "example": "There is a tendency for employees to work from home more frequently after the pandemic.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "9a93b526",
+    "word": "convene",
+    "meaning": "召集、召開（會議）；聚集",
+    "example": "The board will convene next Tuesday to discuss the quarterly results.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "02402bd2",
+    "word": "neutral",
+    "meaning": "中立的；不帶感情的；中性的",
+    "example": "The mediator maintained a neutral position during the negotiation between the two companies.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "7718cd3f",
+    "word": "precisely",
+    "meaning": "精確地、準確地；恰好",
+    "example": "We need to follow the contract terms precisely to avoid any disputes.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "b7d40c89",
+    "word": "sustain",
+    "meaning": "維持、支撐、承受；証實",
+    "example": "The company needs to sustain its growth momentum in the competitive market.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "dc62862c",
+    "word": "concentrated",
+    "meaning": "集中的；濃縮的；專注的",
+    "example": "We need a concentrated effort to meet the project deadline.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "3c40841e",
+    "word": "strict",
+    "meaning": "嚴格的；嚴厲的；確切的",
+    "example": "Our company has strict policies regarding data security and employee conduct.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "f6fbed50",
+    "word": "designate",
+    "meaning": "指定、任命、標示",
+    "example": "The company will designate a new project manager to oversee the development team.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "dead4bab",
+    "word": "striking",
+    "meaning": "引人注目的、顯著的；罷工的",
+    "example": "The striking difference between the two proposals made the decision easier for the board.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "bd42e19e",
+    "word": "willingness",
+    "meaning": "願意；樂意；積極主動的態度",
+    "example": "We appreciate your willingness to take on this challenging project.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "86c2f54a",
+    "word": "a body of evidence",
+    "meaning": "一組證據、大量證據",
+    "example": "A body of evidence suggests that remote work increases productivity among our team members.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "092becdf",
+    "word": "substitute",
+    "meaning": "替代品；代替  常見搭配詞為「a substitute for + N」，表示用某物取代另一物。",
+    "example": "We need to find a substitute for the original supplier due to quality issues.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1ec0ebd1",
+    "word": "obstacle",
+    "meaning": "障礙、阻礙  「an obstacle to + N」（注意介係詞用 to，不是 for）",
+    "example": "The main obstacle to our project is the lack of funding.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c4167499",
+    "word": "dismiss",
+    "meaning": "解僱；駁回；不予考慮；遣散",
+    "example": "The company decided to dismiss three employees due to restructuring.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "c0ddd850",
+    "word": "accountable",
+    "meaning": "應負責的、應當說明的、可被追究的 常用搭配為「be accountable for + 事情」",
+    "example": "The project manager is accountable for meeting the deadline and staying within budget.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "4a0be6bf",
+    "word": "reluctant",
+    "meaning": "不願意的；勉強的；不情願的",
+    "example": "The client was reluctant to commit to a long-term contract without reviewing the terms.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "6ea0ca8b",
+    "word": "eligible",
+    "meaning": "有資格的；符合條件的",
+    "example": "Employees with at least two years of service are eligible for the bonus program.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "e74ca2ee",
+    "word": "accountability",
+    "meaning": "責任感；問責制；必須解釋並為自己的行為負責的義務",
+    "example": "The company implemented a new system to improve accountability across all departments.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a03af959",
+    "word": "hospitality",
+    "meaning": "熱情好客；款待；旅館業",
+    "example": "We appreciate the hospitality of our host company during the business conference.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "27d0acb5",
+    "word": "generosity",
+    "meaning": "慷慨；大方；寬宏大量",
+    "example": "The company's generosity in donating to charity impressed all stakeholders.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "aba6a7d8",
+    "word": "privilege",
+    "meaning": "特權、優特或福利；不當享有的權利或優勢",
+    "example": "As a senior manager, you have the privilege of attending executive meetings that other employees cannot access.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "93e583a9",
+    "word": "impose",
+    "meaning": "強加、課徵（稅款、罰款等）",
+    "example": "The government imposed new tariffs on imported goods.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "d5f5f2ed",
+    "word": "waive",
+    "meaning": "放棄、豁免（權利、要求或規則）",
+    "example": "The company decided to waive the late payment fee for this client.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a2ee1686",
+    "word": "neglect",
+    "meaning": "忽視、疏忽、不照顧",
+    "example": "The company neglected to update its security protocols, which led to a data breach.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "a7bac652",
+    "word": "relinquish",
+    "meaning": "放棄、交出、解除（權利或控制權）",
+    "example": "The company agreed to relinquish its claim to the patent after the settlement.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "950c4cf3",
+    "word": "patent",
+    "meaning": "專利；專利權；明顯的、顯而易見的",
+    "example": "The company filed a patent application to protect its new technology.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "1d9c2285",
+    "word": "reinforce",
+    "meaning": "加強、強化、增援",
+    "example": "We need to reinforce our marketing strategy to better reach target customers.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "ea9984d5",
+    "word": "exaggerate",
+    "meaning": "誇大、言過其實",
+    "example": "The marketing team exaggerated the product's benefits in the advertisement.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "73fdf7ad",
+    "word": "overlook",
+    "meaning": "忽視、俯瞰、寬恕",
+    "example": "We cannot overlook the importance of quality control in our manufacturing process.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "47600f03",
+    "word": "cartons",
+    "meaning": "紙箱；紙盒（通常用於裝飲料、食品等）",
+    "example": "We need to order more milk cartons for the office pantry.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "da73ed90",
+    "word": "Intrigued",
+    "meaning": "對某事物感到好奇或興趣盎然的；被激起興趣的",
+    "example": "The clients were intrigued by the innovative product features presented during the demonstration.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "dff0d44d",
+    "word": "distant",
+    "meaning": "遠的、距離遠的；冷漠的、疏遠的",
+    "example": "Our company has a distant office in Taipei that we rarely visit.",
+    "cefr_level": "A2"
+  },
+  {
+    "id": "2b73f95d",
+    "word": "desperate",
+    "meaning": "絕望的；急切的；極度需要的",
+    "example": "The company is in a desperate situation and needs immediate funding to stay afloat.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "636b21ac",
+    "word": "clingy",
+    "meaning": "容易粘著的；過度依賴的、黏人的",
+    "example": "The clingy material made it difficult to fold the fabric properly in the warehouse.",
+    "cefr_level": "B1"
+  },
+  {
+    "id": "1ba0baae",
+    "word": "aloof",
+    "meaning": "冷漠的、不友善的；保持距離的",
+    "example": "The manager remained aloof during the team meeting, which made employees feel uncomfortable.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "d777b338",
+    "word": "sophisticated",
+    "meaning": "老練的、複雜精妙的、見識廣博的",
+    "example": "Our client prefers a more sophisticated approach to market analysis that incorporates AI and big data.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "717e2b28",
+    "word": "unprecedented",
+    "meaning": "前所未有的、沒有先例的",
+    "example": "The company achieved unprecedented growth in the Asian market last quarter.",
+    "cefr_level": "B2"
+  },
+  {
+    "id": "a0425bbf",
+    "word": "grumpy",
+    "meaning": "容易生氣的、脾氣不好的、不滿的",
+    "example": "The grumpy manager complained about the late project submission during the meeting.",
+    "cefr_level": "A2"
+  }
+]

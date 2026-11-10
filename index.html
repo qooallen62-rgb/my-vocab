@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>單字複習</title>
+<style>
+  :root {
+    --bg: #f6f7fb;
+    --card: #ffffff;
+    --border: #e2e5ec;
+    --text: #1f2430;
+    --muted: #6b7280;
+    --primary: #3457d5;
+    --primary-dark: #2941a8;
+    --danger: #d64545;
+    --good: #1f9d55;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", "Microsoft JhengHei", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 14px;
+  }
+  h1 { font-size: 18px; margin: 4px 0 12px; }
+  .muted { color: var(--muted); font-size: 13px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+    margin-bottom: 12px;
+  }
+  button {
+    font-family: inherit;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  button.primary {
+    background: var(--primary);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    width: 100%;
+  }
+  button.primary:hover { background: var(--primary-dark); }
+  button.ghost {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    color: var(--text);
+  }
+  .home-btn {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 16px;
+    margin-bottom: 10px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: #fff;
+    font-size: 15px;
+  }
+  .hidden { display: none !important; }
+  .row { display: flex; gap: 8px; align-items: center; }
+  .row.between { justify-content: space-between; }
+
+  /* matching game */
+  .match-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 12px;
+  }
+  .match-card {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    background: #fff;
+    word-break: break-word;
+  }
+  .match-card.selected { border-color: var(--primary); background: #eef1fb; }
+  .match-card.matched { border-color: #9ee6c4; background: #e3faee; color: var(--good); cursor: default; }
+  .match-card.wrong { border-color: var(--danger); background: #fdeaea; }
+
+  /* quiz */
+  .choice-btn {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: #fff;
+    font-size: 14px;
+  }
+  .choice-btn.selected { border-color: var(--primary); background: #eef1fb; }
+  .choice-btn.correct { border-color: var(--good); background: #e8f7ee; }
+  .choice-btn.incorrect { border-color: var(--danger); background: #fdeaea; }
+  .issue-explain { color: var(--text); font-size: 13px; margin-top: 6px; line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<div id="home" class="card">
+  <h1>📱 單字複習（離線快照）</h1>
+  <div id="snapshot-info" class="muted" style="margin-bottom:10px;"></div>
+  <button class="home-btn" onclick="goTo('matching')">🔗 配對練習</button>
+  <button class="home-btn" onclick="goTo('quiz')">🈶 單字選意思</button>
+</div>
+
+<div id="matching-view" class="hidden">
+  <div class="row between" style="margin-bottom:10px;">
+    <button class="ghost" onclick="goTo('home')">← 返回</button>
+    <button class="ghost" onclick="startMatching()">🔄 換一組</button>
+  </div>
+  <div id="matching-status" class="muted" style="margin-bottom:8px;"></div>
+  <div id="matching-grid" class="match-grid"></div>
+</div>
+
+<div id="quiz-view" class="hidden">
+  <div class="row between" style="margin-bottom:10px;">
+    <button class="ghost" onclick="goTo('home')">← 返回</button>
+    <button class="ghost" onclick="startQuiz()">🔄 換一組（10 題）</button>
+  </div>
+  <div id="quiz-area"></div>
+</div>
+
+<script>
+const $ = (sel) => document.querySelector(sel);
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+let vocab = [];
+
+async function loadSnapshot() {
+  const res = await fetch('vocab-snapshot.json', {cache: 'no-store'});
+  vocab = await res.json();
+  $('#snapshot-info').textContent = `目前快照共有 ${vocab.length} 個單字`;
+}
+
+function goTo(view) {
+  ['home', 'matching-view', 'quiz-view'].forEach(id => $('#' + id).classList.add('hidden'));
+  if (view === 'home') { $('#home').classList.remove('hidden'); return; }
+  if (view === 'matching') { $('#matching-view').classList.remove('hidden'); startMatching(); }
+  if (view === 'quiz') { $('#quiz-view').classList.remove('hidden'); startQuiz(); }
+}
+
+// ---------- Matching game ----------
+const MATCH_PAIR_COUNT = 6;
+let matchPairs = [], matchLeftOrder = [], matchRightOrder = [];
+let matchSelected = {left: null, right: null};
+let matchMatchedIds = new Set();
+
+function startMatching() {
+  if (vocab.length < 2) {
+    $('#matching-grid').innerHTML = '';
+    $('#matching-status').textContent = '快照裡的單字不夠（至少要 2 個），回電腦上新增單字後重新匯出快照。';
+    return;
+  }
+  matchPairs = shuffle(vocab).slice(0, Math.min(MATCH_PAIR_COUNT, vocab.length));
+  matchLeftOrder = shuffle(matchPairs);
+  matchRightOrder = shuffle(matchPairs);
+  matchSelected = {left: null, right: null};
+  matchMatchedIds = new Set();
+  renderMatching();
+}
+
+function renderMatching() {
+  const remaining = matchPairs.length - matchMatchedIds.size;
+  $('#matching-status').textContent = remaining === 0
+    ? '🎉 全部配對完成！點「換一組」繼續練習。'
+    : `還剩 ${remaining} 組`;
+
+  $('#matching-grid').innerHTML = matchLeftOrder.map((v, i) => `
+    <div class="match-card ${matchMatchedIds.has(v.id) ? 'matched' : (matchSelected.left === v.id ? 'selected' : '')}"
+         data-id="${v.id}" onclick="selectMatchCard('left', '${v.id}')">
+      ${escapeHtml(v.meaning.split(/[；;]/)[0].trim())}
+    </div>
+    <div class="match-card ${matchMatchedIds.has(matchRightOrder[i].id) ? 'matched' : (matchSelected.right === matchRightOrder[i].id ? 'selected' : '')}"
+         data-id="${matchRightOrder[i].id}" onclick="selectMatchCard('right', '${matchRightOrder[i].id}')">
+      ${escapeHtml(matchRightOrder[i].word)}
+    </div>
+  `).join('');
+}
+
+function selectMatchCard(side, id) {
+  if (matchMatchedIds.has(id)) return;
+  if (matchSelected[side] === id) {
+    matchSelected[side] = null;
+    renderMatching();
+    return;
+  }
+  matchSelected[side] = id;
+
+  if (matchSelected.left && matchSelected.right) {
+    if (matchSelected.left === matchSelected.right) {
+      matchMatchedIds.add(matchSelected.left);
+      matchSelected = {left: null, right: null};
+      renderMatching();
+    } else {
+      renderMatching();
+      const leftId = matchSelected.left, rightId = matchSelected.right;
+      document.querySelectorAll(`.match-card[data-id="${leftId}"], .match-card[data-id="${rightId}"]`)
+        .forEach(el => el.classList.add('wrong'));
+      setTimeout(() => {
+        matchSelected = {left: null, right: null};
+        renderMatching();
+      }, 500);
+    }
+  } else {
+    renderMatching();
+  }
+}
+
+// ---------- Vocab meaning quiz ----------
+let quizQuestions = [];
+let quizAnswers = {};
+
+function buildMeaningQuestion(entry, pool) {
+  const correct = entry.meaning.split(/[；;]/)[0].trim();
+  const distractorPairs = pool
+    .filter(v => v !== entry)
+    .map(v => [v.meaning.split(/[；;]/)[0].trim(), v.word])
+    .filter(([m]) => m && m.toLowerCase() !== correct.toLowerCase());
+
+  const seen = new Set();
+  const unique = [];
+  for (const [m, w] of distractorPairs) {
+    const key = m.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push([m, w]);
+  }
+  shuffle(unique);
+  const chosen = unique.slice(0, 3);
+  if (chosen.length < 1) return null;
+
+  const choiceWords = {};
+  chosen.forEach(([m, w]) => { choiceWords[m] = w; });
+  choiceWords[correct] = entry.word;
+  const choices = shuffle(Object.keys(choiceWords));
+
+  let explanation = `正確答案：${correct}`;
+  if (entry.example) explanation += `｜例句：${entry.example}`;
+
+  return {
+    question: `「${entry.word}」的中文意思是？`,
+    choices, answer: correct, explanation, choiceWords,
+  };
+}
+
+function startQuiz() {
+  if (vocab.length < 4) {
+    $('#quiz-area').innerHTML = '<p class="muted">快照裡的單字不夠（至少要 4 個），回電腦上新增單字後重新匯出快照。</p>';
+    return;
+  }
+  const pool = shuffle(vocab);
+  quizQuestions = [];
+  for (const entry of pool) {
+    if (quizQuestions.length >= 10) break;
+    const q = buildMeaningQuestion(entry, vocab);
+    if (q) quizQuestions.push(q);
+  }
+  quizAnswers = {};
+  renderQuiz();
+}
+
+function renderQuiz() {
+  $('#quiz-area').innerHTML = quizQuestions.map((q, idx) => `
+    <div class="card" id="quiz-q-${idx}">
+      <p><strong>Q${idx + 1}.</strong> ${escapeHtml(q.question)}</p>
+      ${q.choices.map(c => `
+        <button class="choice-btn" onclick="answerQuiz(${idx}, '${c.replace(/'/g, "\\'")}')">${escapeHtml(c)}</button>
+      `).join('')}
+      <div class="muted hidden" id="quiz-explain-${idx}"></div>
+    </div>
+  `).join('') + `<button class="primary" onclick="finishQuiz()">送出全部答案</button>`;
+}
+
+function answerQuiz(idx, choice) {
+  quizAnswers[idx] = choice;
+  const card = $('#quiz-q-' + idx);
+  card.querySelectorAll('.choice-btn').forEach(btn => {
+    btn.classList.toggle('selected', btn.textContent === choice);
+  });
+}
+
+function finishQuiz() {
+  let score = 0;
+  quizQuestions.forEach((q, idx) => {
+    const card = $('#quiz-q-' + idx);
+    const chosen = quizAnswers[idx] || '';
+    const correct = chosen === q.answer;
+    if (correct) score++;
+    card.querySelectorAll('.choice-btn').forEach(btn => {
+      if (btn.textContent === q.answer) btn.classList.add('correct');
+      else if (btn.textContent === chosen) btn.classList.add('incorrect');
+    });
+    const explainEl = $('#quiz-explain-' + idx);
+    let text = q.explanation;
+    if (!correct && chosen && q.choiceWords[chosen]) {
+      text += `｜你選的「${chosen}」其實是「${q.choiceWords[chosen]}」的意思`;
+    }
+    explainEl.textContent = text;
+    explainEl.classList.remove('hidden');
+  });
+  $('#quiz-area').insertAdjacentHTML('afterbegin', `<div class="card"><strong>本次成績：${score} / ${quizQuestions.length}</strong></div>`);
+}
+
+loadSnapshot();
+</script>
+</body>
+</html>
