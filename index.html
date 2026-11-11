@@ -249,8 +249,7 @@ function buildMeaningQuestion(entry, pool) {
     seen.add(key);
     unique.push([m, w]);
   }
-  shuffle(unique);
-  const chosen = unique.slice(0, 3);
+  const chosen = shuffle(unique).slice(0, 3);
   if (chosen.length < 1) return null;
 
   const choiceWords = {};
@@ -329,4 +328,3 @@ loadSnapshot();
 </script>
 </body>
 </html>
-
