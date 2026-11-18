@@ -114,7 +114,8 @@
   <h1>📱 單字複習（離線快照）</h1>
   <div id="snapshot-info" class="muted" style="margin-bottom:10px;"></div>
   <button class="home-btn" onclick="goTo('matching')">🔗 配對練習</button>
-  <button class="home-btn" onclick="goTo('quiz')">🈶 單字選意思</button>
+  <button class="home-btn" onclick="goTo('quiz', 'meaning')">🈶 單字選意思</button>
+  <button class="home-btn" onclick="goTo('quiz', 'endef')">🔤 英翻英</button>
 </div>
 
 <div id="matching-view" class="hidden">
@@ -156,11 +157,13 @@ async function loadSnapshot() {
   $('#snapshot-info').textContent = `目前快照共有 ${vocab.length} 個單字`;
 }
 
-function goTo(view) {
+let quizMode = 'meaning';
+
+function goTo(view, mode) {
   ['home', 'matching-view', 'quiz-view'].forEach(id => $('#' + id).classList.add('hidden'));
   if (view === 'home') { $('#home').classList.remove('hidden'); return; }
   if (view === 'matching') { $('#matching-view').classList.remove('hidden'); startMatching(); }
-  if (view === 'quiz') { $('#quiz-view').classList.remove('hidden'); startQuiz(); }
+  if (view === 'quiz') { quizMode = mode || quizMode; $('#quiz-view').classList.remove('hidden'); startQuiz(); }
 }
 
 // ---------- Matching game ----------
@@ -234,6 +237,17 @@ function selectMatchCard(side, id) {
 let quizQuestions = [];
 let quizAnswers = {};
 
+function meaningSegments(meaning) {
+  return new Set((meaning || '').split(/[；;]/).map(s => s.trim().toLowerCase()).filter(Boolean));
+}
+
+function meaningOverlaps(meaning, correctSet) {
+  for (const seg of meaningSegments(meaning)) {
+    if (correctSet.has(seg)) return true;
+  }
+  return false;
+}
+
 function buildMeaningQuestion(entry, pool) {
   const correct = entry.meaning.split(/[；;]/)[0].trim();
   const distractorPairs = pool
@@ -266,7 +280,43 @@ function buildMeaningQuestion(entry, pool) {
   };
 }
 
+// ---------- English-definition quiz (英翻英) ----------
+function buildEnDefQuestion(entry, pool) {
+  if (!entry.en_definition) return null;
+  const correct = entry.word;
+  const correctMeanings = meaningSegments(entry.meaning);
+  const distractorPairs = pool
+    .filter(v => v !== entry && v.word && v.word.toLowerCase() !== correct.toLowerCase() && !meaningOverlaps(v.meaning, correctMeanings))
+    .map(v => [v.word, v.meaning.split(/[；;]/)[0].trim()]);
+
+  const seen = new Set();
+  const unique = [];
+  for (const [w, m] of distractorPairs) {
+    const key = w.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push([w, m]);
+  }
+  const chosen = shuffle(unique).slice(0, 3);
+  if (chosen.length < 1) return null;
+
+  const choiceWords = {};
+  chosen.forEach(([w, m]) => { choiceWords[w] = m; });
+  const choices = shuffle([correct, ...chosen.map(([w]) => w)]);
+
+  const meaningHint = entry.meaning.split(/[；;]/)[0].trim();
+  let explanation = `正確答案：${correct}（${meaningHint}）`;
+  if (entry.example) explanation += `｜例句：${entry.example}`;
+
+  return {
+    question: `請選出符合這個英文定義的單字：\n"${entry.en_definition}"`,
+    choices, answer: correct, explanation, choiceWords,
+  };
+}
+
 function startQuiz() {
+  if (quizMode === 'endef') return startEnDefQuiz();
+
   if (vocab.length < 4) {
     $('#quiz-area').innerHTML = '<p class="muted">快照裡的單字不夠（至少要 4 個），回電腦上新增單字後重新匯出快照。</p>';
     return;
@@ -282,10 +332,27 @@ function startQuiz() {
   renderQuiz();
 }
 
+function startEnDefQuiz() {
+  const withDef = vocab.filter(v => v.en_definition);
+  if (withDef.length < 4) {
+    $('#quiz-area').innerHTML = '<p class="muted">快照裡有英文定義的單字還不夠（至少要 4 個），回電腦上執行 export_snapshot.py 更新快照後再試試。</p>';
+    return;
+  }
+  const pool = shuffle(withDef);
+  quizQuestions = [];
+  for (const entry of pool) {
+    if (quizQuestions.length >= 10) break;
+    const q = buildEnDefQuestion(entry, withDef);
+    if (q) quizQuestions.push(q);
+  }
+  quizAnswers = {};
+  renderQuiz();
+}
+
 function renderQuiz() {
   $('#quiz-area').innerHTML = quizQuestions.map((q, idx) => `
     <div class="card" id="quiz-q-${idx}">
-      <p><strong>Q${idx + 1}.</strong> ${escapeHtml(q.question)}</p>
+      <p style="white-space: pre-wrap;"><strong>Q${idx + 1}.</strong> ${escapeHtml(q.question)}</p>
       ${q.choices.map(c => `
         <button class="choice-btn" onclick="answerQuiz(${idx}, '${c.replace(/'/g, "\\'")}')">${escapeHtml(c)}</button>
       `).join('')}
